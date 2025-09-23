@@ -15,7 +15,6 @@ def fetch_leetcode_stats(username: str, session_cookie: str = None):
     if session_cookie:
         headers["Cookie"] = f"LEETCODE_SESSION={session_cookie}"
 
-    # Query for user submission stats
     stats_query = """
     query getUserProfile($username: String!) {
       matchedUser(username: $username) {
@@ -42,7 +41,6 @@ def fetch_leetcode_stats(username: str, session_cookie: str = None):
         }
 
         if session_cookie:
-            # Fetch solved problems using authenticated endpoint
             solved_problems = set()
             page = 0
             has_next = True
