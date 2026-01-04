@@ -1,6 +1,0 @@
-fastapi
-uvicorn
-pymongo
-motor
-requests
-python-dotenv
