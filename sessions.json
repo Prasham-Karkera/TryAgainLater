@@ -1,0 +1,3901 @@
+{
+  "rohitsingh_28": {
+    "problems": [
+      {
+        "problemId": "LC_4217",
+        "title": "First Element with Unique Frequency",
+        "titleSlug": "first-element-with-unique-frequency",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_4216",
+        "title": "Weighted Word Mapping",
+        "titleSlug": "weighted-word-mapping",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_4214",
+        "title": "Count Dominant Indices",
+        "titleSlug": "count-dominant-indices",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_4213",
+        "title": "Merge Adjacent Equal Elements",
+        "titleSlug": "merge-adjacent-equal-elements",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_4212",
+        "title": "Toggle Light Bulbs",
+        "titleSlug": "toggle-light-bulbs",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_4211",
+        "title": "Count Subarrays With Cost Less Than or Equal to K",
+        "titleSlug": "count-subarrays-with-cost-less-than-or-equal-to-k",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_4200",
+        "title": "Reverse Letters Then Special Characters in a String",
+        "titleSlug": "reverse-letters-then-special-characters-in-a-string",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_4199",
+        "title": "Minimum Prefix Removal to Make Array Strictly Increasing",
+        "titleSlug": "minimum-prefix-removal-to-make-array-strictly-increasing",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_4194",
+        "title": "Count Monobit Integers",
+        "titleSlug": "count-monobit-integers",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_4190",
+        "title": "Minimum Operations to Reach Target Array",
+        "titleSlug": "minimum-operations-to-reach-target-array",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_4187",
+        "title": "Best Reachable Tower",
+        "titleSlug": "best-reachable-tower",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_4186",
+        "title": "Count Residue Prefixes",
+        "titleSlug": "count-residue-prefixes",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_4180",
+        "title": "Pythagorean Distance Nodes in a Tree",
+        "titleSlug": "pythagorean-distance-nodes-in-a-tree",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_4179",
+        "title": "Largest Even Number",
+        "titleSlug": "largest-even-number",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_4178",
+        "title": "Vowel-Consonant Score",
+        "titleSlug": "vowel-consonant-score",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_4177",
+        "title": "Reverse String Prefix",
+        "titleSlug": "reverse-string-prefix",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_4176",
+        "title": "Minimum K to Reduce Array Within Limit",
+        "titleSlug": "minimum-k-to-reduce-array-within-limit",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_4173",
+        "title": "Maximum Score of a Split",
+        "titleSlug": "maximum-score-of-a-split",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_4171",
+        "title": "Rotate Non Negative Elements",
+        "titleSlug": "rotate-non-negative-elements",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_4162",
+        "title": "Minimum Number of Operations to Have Distinct Elements",
+        "titleSlug": "minimum-number-of-operations-to-have-distinct-elements",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_4160",
+        "title": "Maximum Sum of Three Numbers Divisible by Three",
+        "titleSlug": "maximum-sum-of-three-numbers-divisible-by-three",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_4158",
+        "title": "Absolute Difference Between Maximum and Minimum K Elements",
+        "titleSlug": "absolute-difference-between-maximum-and-minimum-k-elements",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_4152",
+        "title": "Minimum Subarray Length With Distinct Sum At Least K",
+        "titleSlug": "minimum-subarray-length-with-distinct-sum-at-least-k",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_4150",
+        "title": "Sort Integers by Binary Reflection",
+        "titleSlug": "sort-integers-by-binary-reflection",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_4147",
+        "title": "Minimum Cost to Acquire Required Items",
+        "titleSlug": "minimum-cost-to-acquire-required-items",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_4137",
+        "title": "Number of Prefix Connected Groups",
+        "titleSlug": "number-of-prefix-connected-groups",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_4135",
+        "title": "Concatenate Non-Zero Digits and Multiply by Sum I",
+        "titleSlug": "concatenate-non-zero-digits-and-multiply-by-sum-i",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_4129",
+        "title": "Number of Centered Subarrays",
+        "titleSlug": "number-of-centered-subarrays",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_4126",
+        "title": "Minimum Number of Flips to Reverse Binary String",
+        "titleSlug": "minimum-number-of-flips-to-reverse-binary-string",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_4122",
+        "title": "Final Element After Subarray Deletions",
+        "titleSlug": "final-element-after-subarray-deletions",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_4118",
+        "title": "Design Ride Sharing System",
+        "titleSlug": "design-ride-sharing-system",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_4107",
+        "title": "Find Missing Elements",
+        "titleSlug": "find-missing-elements",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_4101",
+        "title": "Maximum Product of Three Elements After One Replacement",
+        "titleSlug": "maximum-product-of-three-elements-after-one-replacement",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_4100",
+        "title": "Complete Prime Number",
+        "titleSlug": "complete-prime-number",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_4099",
+        "title": "Minimum Operations to Make Binary Palindrome",
+        "titleSlug": "minimum-operations-to-make-binary-palindrome",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_4089",
+        "title": "Maximize Points After Choosing K Tasks",
+        "titleSlug": "maximize-points-after-choosing-k-tasks",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_4085",
+        "title": "Largest Prime from Consecutive Prime Sum",
+        "titleSlug": "largest-prime-from-consecutive-prime-sum",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_4084",
+        "title": "Maximize Sum of Squares of Digits",
+        "titleSlug": "maximize-sum-of-squares-of-digits",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_4080",
+        "title": "Smallest Missing Multiple of K",
+        "titleSlug": "smallest-missing-multiple-of-k",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_4078",
+        "title": "Maximum Alternating Sum of Squares",
+        "titleSlug": "maximum-alternating-sum-of-squares",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_4073",
+        "title": "Lexicographically Smallest String After Reverse",
+        "titleSlug": "lexicographically-smallest-string-after-reverse",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_4071",
+        "title": "Word Squares II",
+        "titleSlug": "word-squares-ii",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_4068",
+        "title": "Sum of Elements With Frequency Divisible by K",
+        "titleSlug": "sum-of-elements-with-frequency-divisible-by-k",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_4062",
+        "title": "House Robber V",
+        "titleSlug": "house-robber-v",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_4058",
+        "title": "Compute Alternating Sum",
+        "titleSlug": "compute-alternating-sum",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_4057",
+        "title": "Total Waviness of Numbers in Range I",
+        "titleSlug": "total-waviness-of-numbers-in-range-i",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_4056",
+        "title": "Longest Balanced Substring II",
+        "titleSlug": "longest-balanced-substring-ii",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_4055",
+        "title": "Longest Balanced Substring I",
+        "titleSlug": "longest-balanced-substring-i",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_4053",
+        "title": "Majority Frequency Characters",
+        "titleSlug": "majority-frequency-characters",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_4052",
+        "title": "Equal Score Substrings",
+        "titleSlug": "equal-score-substrings",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_4051",
+        "title": "Remove Zeros in Decimal Representation",
+        "titleSlug": "remove-zeros-in-decimal-representation",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_4045",
+        "title": "Longest Balanced Subarray I",
+        "titleSlug": "longest-balanced-subarray-i",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_4042",
+        "title": "Minimum Operations to Transform Array",
+        "titleSlug": "minimum-operations-to-transform-array",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_4041",
+        "title": "Climbing Stairs II",
+        "titleSlug": "climbing-stairs-ii",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_4039",
+        "title": "Compute Decimal Representation",
+        "titleSlug": "compute-decimal-representation",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_4033",
+        "title": "Longest Subsequence With Non-Zero Bitwise XOR",
+        "titleSlug": "longest-subsequence-with-non-zero-bitwise-xor",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_4015",
+        "title": "Split Array With Minimum Difference",
+        "titleSlug": "split-array-with-minimum-difference",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_4012",
+        "title": "Earliest Time to Finish One Task",
+        "titleSlug": "earliest-time-to-finish-one-task",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_4009",
+        "title": "Bitwise OR of Even Numbers in an Array",
+        "titleSlug": "bitwise-or-of-even-numbers-in-an-array",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_4005",
+        "title": "Maximum Total Subarray Value I",
+        "titleSlug": "maximum-total-subarray-value-i",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_4003",
+        "title": "Longest Fibonacci Subarray",
+        "titleSlug": "longest-fibonacci-subarray",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_3999",
+        "title": "Minimum Operations to Transform String",
+        "titleSlug": "minimum-operations-to-transform-string",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_3998",
+        "title": "Minimum Operations to Equalize Array",
+        "titleSlug": "minimum-operations-to-equalize-array",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_3995",
+        "title": "GCD of Odd and Even Sums",
+        "titleSlug": "gcd-of-odd-and-even-sums",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_3980",
+        "title": "Best Time to Buy and Sell Stock using Strategy",
+        "titleSlug": "best-time-to-buy-and-sell-stock-using-strategy",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_3979",
+        "title": "Partition Array Into K-Distinct Groups",
+        "titleSlug": "partition-array-into-k-distinct-groups",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_3974",
+        "title": "XOR After Range Multiplication Queries I",
+        "titleSlug": "xor-after-range-multiplication-queries-i",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_3963",
+        "title": "Number of Perfect Pairs",
+        "titleSlug": "number-of-perfect-pairs",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_3958",
+        "title": "Minimum Removals to Balance Array",
+        "titleSlug": "minimum-removals-to-balance-array",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_3956",
+        "title": "Trionic Array II",
+        "titleSlug": "trionic-array-ii",
+        "difficulty": 3
+      },
+      {
+        "problemId": "LC_3952",
+        "title": "Trionic Array I",
+        "titleSlug": "trionic-array-i",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_3945",
+        "title": "Minimum Sensors to Cover Grid",
+        "titleSlug": "minimum-sensors-to-cover-grid",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_3936",
+        "title": "Split Array by Prime Indices",
+        "titleSlug": "split-array-by-prime-indices",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_3934",
+        "title": "Coupon Code Validator",
+        "titleSlug": "coupon-code-validator",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_3931",
+        "title": "Process String with Special Operations I",
+        "titleSlug": "process-string-with-special-operations-i",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_3918",
+        "title": "Check Divisibility by Digit Sum and Product",
+        "titleSlug": "check-divisibility-by-digit-sum-and-product",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_3914",
+        "title": "Check if Any Element Has Prime Frequency",
+        "titleSlug": "check-if-any-element-has-prime-frequency",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_3905",
+        "title": "Partition String ",
+        "titleSlug": "partition-string",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_3892",
+        "title": "Best Time to Buy and Sell Stock V",
+        "titleSlug": "best-time-to-buy-and-sell-stock-v",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_3889",
+        "title": "Minimum Cost Path with Teleportations",
+        "titleSlug": "minimum-cost-path-with-teleportations",
+        "difficulty": 3
+      },
+      {
+        "problemId": "LC_3887",
+        "title": "Minimum Cost Path with Edge Reversals",
+        "titleSlug": "minimum-cost-path-with-edge-reversals",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_3886",
+        "title": "Count Number of Trapezoids I",
+        "titleSlug": "count-number-of-trapezoids-i",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_3881",
+        "title": "Minimize Maximum Component Cost",
+        "titleSlug": "minimize-maximum-component-cost",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_3872",
+        "title": "Find Most Frequent Vowel and Consonant",
+        "titleSlug": "find-most-frequent-vowel-and-consonant",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_3864",
+        "title": "Count the Number of Computer Unlocking Permutations",
+        "titleSlug": "count-the-number-of-computer-unlocking-permutations",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_3846",
+        "title": "Minimum Operations to Make Array Sum Divisible by K",
+        "titleSlug": "minimum-operations-to-make-array-sum-divisible-by-k",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_3834",
+        "title": "Minimum Operations to Convert All Elements to Zero",
+        "titleSlug": "minimum-operations-to-convert-all-elements-to-zero",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_3830",
+        "title": "Find Closest Person",
+        "titleSlug": "find-closest-person",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_3823",
+        "title": "Count Islands With Total Value Divisible by K",
+        "titleSlug": "count-islands-with-total-value-divisible-by-k",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_3819",
+        "title": "Count Covered Buildings",
+        "titleSlug": "count-covered-buildings",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_3794",
+        "title": "Find the Minimum Amount of Time to Brew Potions",
+        "titleSlug": "find-the-minimum-amount-of-time-to-brew-potions",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_3791",
+        "title": "Fruits Into Baskets III",
+        "titleSlug": "fruits-into-baskets-iii",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_3788",
+        "title": "Maximum Unique Subarray Sum After Deletion",
+        "titleSlug": "maximum-unique-subarray-sum-after-deletion",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_3773",
+        "title": "Minimum Pair Removal to Sort Array I",
+        "titleSlug": "minimum-pair-removal-to-sort-array-i",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_3772",
+        "title": "Minimum Pair Removal to Sort Array II",
+        "titleSlug": "minimum-pair-removal-to-sort-array-ii",
+        "difficulty": 3
+      },
+      {
+        "problemId": "LC_3768",
+        "title": "Check If Digits Are Equal in String After Operations I",
+        "titleSlug": "check-if-digits-are-equal-in-string-after-operations-i",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_3763",
+        "title": "Separate Squares I",
+        "titleSlug": "separate-squares-i",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_3754",
+        "title": "Maximum Manhattan Distance After K Changes",
+        "titleSlug": "maximum-manhattan-distance-after-k-changes",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_3753",
+        "title": "Maximum Difference Between Even and Odd Frequency I",
+        "titleSlug": "maximum-difference-between-even-and-odd-frequency-i",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_3748",
+        "title": "Sort Matrix by Diagonals",
+        "titleSlug": "sort-matrix-by-diagonals",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_3747",
+        "title": "Maximum Difference Between Adjacent Elements in a Circular Array",
+        "titleSlug": "maximum-difference-between-adjacent-elements-in-a-circular-array",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_3744",
+        "title": "Minimum Operations to Make Array Elements Zero",
+        "titleSlug": "minimum-operations-to-make-array-elements-zero",
+        "difficulty": 3
+      },
+      {
+        "problemId": "LC_3743",
+        "title": "Reschedule Meetings for Maximum Free Time I",
+        "titleSlug": "reschedule-meetings-for-maximum-free-time-i",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_3729",
+        "title": "Unit Conversion I",
+        "titleSlug": "unit-conversion-i",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_3721",
+        "title": "Count Mentions Per User",
+        "titleSlug": "count-mentions-per-user",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_3704",
+        "title": "Count Partitions with Even Sum Difference",
+        "titleSlug": "count-partitions-with-even-sum-difference",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_3676",
+        "title": "Smallest Number With All Set Bits",
+        "titleSlug": "smallest-number-with-all-set-bits",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_3653",
+        "title": "Maximum Subarray Sum With Length Divisible by K",
+        "titleSlug": "maximum-subarray-sum-with-length-divisible-by-k",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_3651",
+        "title": "Transformed Array",
+        "titleSlug": "transformed-array",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_3648",
+        "title": "Find the Maximum Number of Fruits Collected",
+        "titleSlug": "find-the-maximum-number-of-fruits-collected",
+        "difficulty": 3
+      },
+      {
+        "problemId": "LC_3640",
+        "title": "Maximum Frequency of an Element After Performing Operations II",
+        "titleSlug": "maximum-frequency-of-an-element-after-performing-operations-ii",
+        "difficulty": 3
+      },
+      {
+        "problemId": "LC_3622",
+        "title": "Maximum Frequency of an Element After Performing Operations I",
+        "titleSlug": "maximum-frequency-of-an-element-after-performing-operations-i",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_3621",
+        "title": "Minimum Operations to Make Array Values Equal to K",
+        "titleSlug": "minimum-operations-to-make-array-values-equal-to-k",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_3620",
+        "title": "Maximum Number of Distinct Elements After Operations",
+        "titleSlug": "maximum-number-of-distinct-elements-after-operations",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_3619",
+        "title": "Adjacent Increasing Subarrays Detection II",
+        "titleSlug": "adjacent-increasing-subarrays-detection-ii",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_3617",
+        "title": "Find the Original Typed String I",
+        "titleSlug": "find-the-original-typed-string-i",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_3616",
+        "title": "Make Array Elements Equal to Zero",
+        "titleSlug": "make-array-elements-equal-to-zero",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_3612",
+        "title": "Adjacent Increasing Subarrays Detection I",
+        "titleSlug": "adjacent-increasing-subarrays-detection-i",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_3611",
+        "title": "Construct the Minimum Bitwise Array II",
+        "titleSlug": "construct-the-minimum-bitwise-array-ii",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_3610",
+        "title": "Find X-Sum of All K-Long Subarrays I",
+        "titleSlug": "find-x-sum-of-all-k-long-subarrays-i",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_3605",
+        "title": "Construct the Minimum Bitwise Array I",
+        "titleSlug": "construct-the-minimum-bitwise-array-i",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_3601",
+        "title": "Find the K-th Character in String Game II",
+        "titleSlug": "find-the-k-th-character-in-string-game-ii",
+        "difficulty": 3
+      },
+      {
+        "problemId": "LC_3600",
+        "title": "Find the K-th Character in String Game I",
+        "titleSlug": "find-the-k-th-character-in-string-game-i",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_3581",
+        "title": "The Two Sneaky Numbers of Digitville",
+        "titleSlug": "the-two-sneaky-numbers-of-digitville",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_3566",
+        "title": "Find the Sequence of Strings Appeared on the Screen",
+        "titleSlug": "find-the-sequence-of-strings-appeared-on-the-screen",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_3501",
+        "title": "Delete Nodes From Linked List Present in Array",
+        "titleSlug": "delete-nodes-from-linked-list-present-in-array",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_3493",
+        "title": "Maximum Number of Operations to Move Ones to the End",
+        "titleSlug": "maximum-number-of-operations-to-move-ones-to-the-end",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_3491",
+        "title": "Find the Maximum Length of Valid Subsequence II",
+        "titleSlug": "find-the-maximum-length-of-valid-subsequence-ii",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_3490",
+        "title": "Find the Maximum Length of Valid Subsequence I",
+        "titleSlug": "find-the-maximum-length-of-valid-subsequence-i",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_3487",
+        "title": "Find Maximum Removals From Source String",
+        "titleSlug": "find-maximum-removals-from-source-string",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_3476",
+        "title": "Find Minimum Operations to Make All Elements Divisible by Three",
+        "titleSlug": "find-minimum-operations-to-make-all-elements-divisible-by-three",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_3462",
+        "title": "Vowels Game in a String",
+        "titleSlug": "vowels-game-in-a-string",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_3461",
+        "title": "Find the Minimum Area to Cover All Ones I",
+        "titleSlug": "find-the-minimum-area-to-cover-all-ones-i",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_3459",
+        "title": "Find the Minimum Area to Cover All Ones II",
+        "titleSlug": "find-the-minimum-area-to-cover-all-ones-ii",
+        "difficulty": 3
+      },
+      {
+        "problemId": "LC_3455",
+        "title": "Minimum Length of String After Operations",
+        "titleSlug": "minimum-length-of-string-after-operations",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_3447",
+        "title": "Clear Digits",
+        "titleSlug": "clear-digits",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_3445",
+        "title": "Lexicographically Minimum String After Removing Stars",
+        "titleSlug": "lexicographically-minimum-string-after-removing-stars",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_3437",
+        "title": "Maximum Total Damage With Spell Casting",
+        "titleSlug": "maximum-total-damage-with-spell-casting",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_3429",
+        "title": "Special Array I",
+        "titleSlug": "special-array-i",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_3396",
+        "title": "Valid Word",
+        "titleSlug": "valid-word",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_3383",
+        "title": "Taking Maximum Energy From the Mystic Dungeon",
+        "titleSlug": "taking-maximum-energy-from-the-mystic-dungeon",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_3372",
+        "title": "Longest Strictly Increasing or Strictly Decreasing Subarray",
+        "titleSlug": "longest-strictly-increasing-or-strictly-decreasing-subarray",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_3360",
+        "title": "Minimum Deletions to Make String K-Special",
+        "titleSlug": "minimum-deletions-to-make-string-k-special",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_3351",
+        "title": "Maximize Happiness of Selected Children",
+        "titleSlug": "maximize-happiness-of-selected-children",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_3336",
+        "title": "Water Bottles II",
+        "titleSlug": "water-bottles-ii",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_3334",
+        "title": "Apple Redistribution into Boxes",
+        "titleSlug": "apple-redistribution-into-boxes",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_3325",
+        "title": "Find the Largest Area of Square Inside Two Rectangles",
+        "titleSlug": "find-the-largest-area-of-square-inside-two-rectangles",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_3309",
+        "title": "Count Prefix and Suffix Pairs I",
+        "titleSlug": "count-prefix-and-suffix-pairs-i",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_3279",
+        "title": "Alice and Bob Playing Flower Game",
+        "titleSlug": "alice-and-bob-playing-flower-game",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_3278",
+        "title": "Find the Number of Ways to Place People I",
+        "titleSlug": "find-the-number-of-ways-to-place-people-i",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_3275",
+        "title": "Minimum Number of Pushes to Type Word I",
+        "titleSlug": "minimum-number-of-pushes-to-type-word-i",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_3263",
+        "title": "Divide an Array Into Subarrays With Minimum Cost I",
+        "titleSlug": "divide-an-array-into-subarrays-with-minimum-cost-i",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_3251",
+        "title": "Maximum Area of Longest Diagonal Rectangle",
+        "titleSlug": "maximum-area-of-longest-diagonal-rectangle",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_3250",
+        "title": "Maximum Square Area by Removing Fences From a Field",
+        "titleSlug": "maximum-square-area-by-removing-fences-from-a-field",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_3242",
+        "title": "Count Elements With Maximum Frequency",
+        "titleSlug": "count-elements-with-maximum-frequency",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_3241",
+        "title": "Divide Array Into Arrays With Max Difference",
+        "titleSlug": "divide-array-into-arrays-with-max-difference",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_3238",
+        "title": "Minimum Cost to Convert String II",
+        "titleSlug": "minimum-cost-to-convert-string-ii",
+        "difficulty": 3
+      },
+      {
+        "problemId": "LC_3235",
+        "title": "Minimum Cost to Convert String I",
+        "titleSlug": "minimum-cost-to-convert-string-i",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_3219",
+        "title": "Make Lexicographically Smallest Array by Swapping Elements",
+        "titleSlug": "make-lexicographically-smallest-array-by-swapping-elements",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_3214",
+        "title": "Maximize Area of Square Hole in Grid",
+        "titleSlug": "maximize-area-of-square-hole-in-grid",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_3186",
+        "title": "Minimum Sum of Mountain Triplets II",
+        "titleSlug": "minimum-sum-of-mountain-triplets-ii",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_3176",
+        "title": "Minimum Sum of Mountain Triplets I",
+        "titleSlug": "minimum-sum-of-mountain-triplets-i",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_3154",
+        "title": "Maximum Value of an Ordered Triplet I",
+        "titleSlug": "maximum-value-of-an-ordered-triplet-i",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_3152",
+        "title": "Maximum Value of an Ordered Triplet II",
+        "titleSlug": "maximum-value-of-an-ordered-triplet-ii",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_3106",
+        "title": "Length of the Longest Subsequence That Sums to Target",
+        "titleSlug": "length-of-the-longest-subsequence-that-sums-to-target",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_3058",
+        "title": "Maximum Number of K-Divisible Components",
+        "titleSlug": "maximum-number-of-k-divisible-components",
+        "difficulty": 3
+      },
+      {
+        "problemId": "LC_3017",
+        "title": "Number of Beautiful Integers in the Range",
+        "titleSlug": "number-of-beautiful-integers-in-the-range",
+        "difficulty": 3
+      },
+      {
+        "problemId": "LC_2887",
+        "title": "Sort Vowels in a String",
+        "titleSlug": "sort-vowels-in-a-string",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_2882",
+        "title": "Ways to Express an Integer as Sum of Powers",
+        "titleSlug": "ways-to-express-an-integer-as-sum-of-powers",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_2847",
+        "title": "Find Maximum Number of String Pairs",
+        "titleSlug": "find-maximum-number-of-string-pairs",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_2828",
+        "title": "Lexicographically Smallest String After Substring Operation",
+        "titleSlug": "lexicographically-smallest-string-after-substring-operation",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_2792",
+        "title": "Neighboring Bitwise XOR",
+        "titleSlug": "neighboring-bitwise-xor",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_2766",
+        "title": "Find the Prefix Common Array of Two Arrays",
+        "titleSlug": "find-the-prefix-common-array-of-two-arrays",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_2757",
+        "title": "Count of Integers",
+        "titleSlug": "count-of-integers",
+        "difficulty": 3
+      },
+      {
+        "problemId": "LC_2722",
+        "title": "Prime In Diagonal",
+        "titleSlug": "prime-in-diagonal",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_2704",
+        "title": "Maximum Difference by Remapping a Digit",
+        "titleSlug": "maximum-difference-by-remapping-a-digit",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_2699",
+        "title": "Count the Number of Fair Pairs",
+        "titleSlug": "count-the-number-of-fair-pairs",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_2689",
+        "title": "Rearranging Fruits",
+        "titleSlug": "rearranging-fruits",
+        "difficulty": 3
+      },
+      {
+        "problemId": "LC_2685",
+        "title": "First Completely Painted Row or Column",
+        "titleSlug": "first-completely-painted-row-or-column",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_2676",
+        "title": "Find the Score of All Prefixes of an Array",
+        "titleSlug": "find-the-score-of-all-prefixes-of-an-array",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_2661",
+        "title": "Smallest Missing Non-negative Integer After Operations",
+        "titleSlug": "smallest-missing-non-negative-integer-after-operations",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_2626",
+        "title": "Count the Number of Good Subarrays",
+        "titleSlug": "count-the-number-of-good-subarrays",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_2625",
+        "title": "Increment Submatrices by One",
+        "titleSlug": "increment-submatrices-by-one",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_2618",
+        "title": "Maximize the Minimum Powered City",
+        "titleSlug": "maximize-the-minimum-powered-city",
+        "difficulty": 3
+      },
+      {
+        "problemId": "LC_2609",
+        "title": "Distinct Prime Factors of Product of Array",
+        "titleSlug": "distinct-prime-factors-of-product-of-array",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_2595",
+        "title": "Smallest Value After Replacing With Sum of Prime Factors",
+        "titleSlug": "smallest-value-after-replacing-with-sum-of-prime-factors",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_2591",
+        "title": "Frog Jump II",
+        "titleSlug": "frog-jump-ii",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_2576",
+        "title": "Minimum Penalty for a Shop",
+        "titleSlug": "minimum-penalty-for-a-shop",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_2558",
+        "title": "Minimum Number of Operations to Sort a Binary Tree by Level",
+        "titleSlug": "minimum-number-of-operations-to-sort-a-binary-tree-by-level",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_2533",
+        "title": "Bitwise XOR of All Pairings",
+        "titleSlug": "bitwise-xor-of-all-pairings",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_2529",
+        "title": "Range Product Queries of Powers",
+        "titleSlug": "range-product-queries-of-powers",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_2525",
+        "title": "Count Number of Distinct Integers After Reverse Operations",
+        "titleSlug": "count-number-of-distinct-integers-after-reverse-operations",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_2521",
+        "title": "Paths in Matrix Whose Sum Is Divisible by K",
+        "titleSlug": "paths-in-matrix-whose-sum-is-divisible-by-k",
+        "difficulty": 3
+      },
+      {
+        "problemId": "LC_2520",
+        "title": "Using a Robot to Print the Lexicographically Smallest String",
+        "titleSlug": "using-a-robot-to-print-the-lexicographically-smallest-string",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_2509",
+        "title": "Minimize XOR",
+        "titleSlug": "minimize-xor",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_2503",
+        "title": "Longest Subarray With Maximum Bitwise AND",
+        "titleSlug": "longest-subarray-with-maximum-bitwise-and",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_2497",
+        "title": "Maximum Matching of Players With Trainers",
+        "titleSlug": "maximum-matching-of-players-with-trainers",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_2469",
+        "title": "Longest Subsequence With Limited Sum",
+        "titleSlug": "longest-subsequence-with-limited-sum",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_2465",
+        "title": "Shifting Letters II",
+        "titleSlug": "shifting-letters-ii",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_2461",
+        "title": "Amount of Time for Binary Tree to Be Infected",
+        "titleSlug": "amount-of-time-for-binary-tree-to-be-infected",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_2432",
+        "title": "Number of Zero-Filled Subarrays",
+        "titleSlug": "number-of-zero-filled-subarrays",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_2411",
+        "title": "Spiral Matrix IV",
+        "titleSlug": "spiral-matrix-iv",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_2403",
+        "title": "Count Unreachable Pairs of Nodes in an Undirected Graph",
+        "titleSlug": "count-unreachable-pairs-of-nodes-in-an-undirected-graph",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_2394",
+        "title": "Count Subarrays With Score Less Than K",
+        "titleSlug": "count-subarrays-with-score-less-than-k",
+        "difficulty": 3
+      },
+      {
+        "problemId": "LC_2392",
+        "title": "Successful Pairs of Spells and Potions",
+        "titleSlug": "successful-pairs-of-spells-and-potions",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_2387",
+        "title": "Partition Array Such That Maximum Difference Is K",
+        "titleSlug": "partition-array-such-that-maximum-difference-is-k",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_2377",
+        "title": "Check if Number Has Equal Digit Count and Digit Value",
+        "titleSlug": "check-if-number-has-equal-digit-count-and-digit-value",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_2358",
+        "title": "Number of Ways to Split Array",
+        "titleSlug": "number-of-ways-to-split-array",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_2351",
+        "title": "Number of Ways to Buy Pens and Pencils",
+        "titleSlug": "number-of-ways-to-buy-pens-and-pencils",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_2346",
+        "title": "Largest 3-Same-Digit Number in String",
+        "titleSlug": "largest-3-same-digit-number-in-string",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_2343",
+        "title": "Count Unguarded Cells in the Grid",
+        "titleSlug": "count-unguarded-cells-in-the-grid",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_2338",
+        "title": "Minimum Consecutive Cards to Pick Up",
+        "titleSlug": "minimum-consecutive-cards-to-pick-up",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_2337",
+        "title": "Remove Digit From Number to Maximize Result",
+        "titleSlug": "remove-digit-from-number-to-maximize-result",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_2329",
+        "title": "Maximum Product After K Increments",
+        "titleSlug": "maximum-product-after-k-increments",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_2324",
+        "title": "Find Triangular Sum of an Array",
+        "titleSlug": "find-triangular-sum-of-an-array",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_2320",
+        "title": "Find All K-Distant Indices in an Array",
+        "titleSlug": "find-all-k-distant-indices-in-an-array",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_2317",
+        "title": "Count Collisions on a Road",
+        "titleSlug": "count-collisions-on-a-road",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_2316",
+        "title": "Count Hills and Valleys in an Array",
+        "titleSlug": "count-hills-and-valleys-in-an-array",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_2300",
+        "title": "Construct String With Repeat Limit",
+        "titleSlug": "construct-string-with-repeat-limit",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_2294",
+        "title": "Minimum Time to Complete Trips",
+        "titleSlug": "minimum-time-to-complete-trips",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_2292",
+        "title": "Counting Words With a Given Prefix",
+        "titleSlug": "counting-words-with-a-given-prefix",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_2288",
+        "title": "Count Operations to Obtain Zero",
+        "titleSlug": "count-operations-to-obtain-zero",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_2278",
+        "title": "Find Three Consecutive Integers That Sum to a Given Number",
+        "titleSlug": "find-three-consecutive-integers-that-sum-to-a-given-number",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_2274",
+        "title": "Keep Multiplying Found Values by Two",
+        "titleSlug": "keep-multiplying-found-values-by-two",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_2267",
+        "title": "Minimum Difference in Sums After Removal of Elements",
+        "titleSlug": "minimum-difference-in-sums-after-removal-of-elements",
+        "difficulty": 3
+      },
+      {
+        "problemId": "LC_2263",
+        "title": "Maximum Running Time of N Computers",
+        "titleSlug": "maximum-running-time-of-n-computers",
+        "difficulty": 3
+      },
+      {
+        "problemId": "LC_2260",
+        "title": "Divide a String Into Groups of Size k",
+        "titleSlug": "divide-a-string-into-groups-of-size-k",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_2256",
+        "title": "Count Words Obtained After Adding a Letter",
+        "titleSlug": "count-words-obtained-after-adding-a-letter",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_2251",
+        "title": "Number of Ways to Divide a Long Corridor",
+        "titleSlug": "number-of-ways-to-divide-a-long-corridor",
+        "difficulty": 3
+      },
+      {
+        "problemId": "LC_2244",
+        "title": "Number of Laser Beams in a Bank",
+        "titleSlug": "number-of-laser-beams-in-a-bank",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_2236",
+        "title": "Maximum Twin Sum of a Linked List",
+        "titleSlug": "maximum-twin-sum-of-a-linked-list",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_2233",
+        "title": "Number of Smooth Descent Periods of a Stock",
+        "titleSlug": "number-of-smooth-descent-periods-of-a-stock",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_2221",
+        "title": "Check if a Parentheses String Can Be Valid",
+        "titleSlug": "check-if-a-parentheses-string-can-be-valid",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_2216",
+        "title": "Delete the Middle Node of a Linked List",
+        "titleSlug": "delete-the-middle-node-of-a-linked-list",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_2215",
+        "title": "Finding 3-Digit Even Numbers",
+        "titleSlug": "finding-3-digit-even-numbers",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_2206",
+        "title": "Detonate the Maximum Bombs",
+        "titleSlug": "detonate-the-maximum-bombs",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_2204",
+        "title": "Find Subsequence of Length K With the Largest Sum",
+        "titleSlug": "find-subsequence-of-length-k-with-the-largest-sum",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_2202",
+        "title": "Sum of k-Mirror Numbers",
+        "titleSlug": "sum-of-k-mirror-numbers",
+        "difficulty": 3
+      },
+      {
+        "problemId": "LC_2197",
+        "title": "Decode the Slanted Ciphertext",
+        "titleSlug": "decode-the-slanted-ciphertext",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_2196",
+        "title": "Reverse Nodes in Even Length Groups",
+        "titleSlug": "reverse-nodes-in-even-length-groups",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_2182",
+        "title": "Find the Minimum and Maximum Number of Nodes Between Critical Points",
+        "titleSlug": "find-the-minimum-and-maximum-number-of-nodes-between-critical-points",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_2174",
+        "title": "Next Greater Numerically Balanced Number",
+        "titleSlug": "next-greater-numerically-balanced-number",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_2170",
+        "title": "Count Number of Maximum Bitwise-OR Subsets",
+        "titleSlug": "count-number-of-maximum-bitwise-or-subsets",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_2169",
+        "title": "Simple Bank System",
+        "titleSlug": "simple-bank-system",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_2164",
+        "title": "Two Best Non-Overlapping Events",
+        "titleSlug": "two-best-non-overlapping-events",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_2149",
+        "title": "Remove Colored Pieces if Both Neighbors are the Same Color",
+        "titleSlug": "remove-colored-pieces-if-both-neighbors-are-the-same-color",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_2145",
+        "title": "Grid Game",
+        "titleSlug": "grid-game",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_2144",
+        "title": "Maximum Difference Between Increasing Elements",
+        "titleSlug": "maximum-difference-between-increasing-elements",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_2138",
+        "title": "Sum of Beauty in the Array",
+        "titleSlug": "sum-of-beauty-in-the-array",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_2137",
+        "title": "Final Value of Variable After Performing Operations",
+        "titleSlug": "final-value-of-variable-after-performing-operations",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_2112",
+        "title": "Minimum Difference Between Highest and Lowest of K Scores",
+        "titleSlug": "minimum-difference-between-highest-and-lowest-of-k-scores",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_2103",
+        "title": "Find All Groups of Farmland",
+        "titleSlug": "find-all-groups-of-farmland",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_2101",
+        "title": "Last Day Where You Can Still Cross",
+        "titleSlug": "last-day-where-you-can-still-cross",
+        "difficulty": 3
+      },
+      {
+        "problemId": "LC_2095",
+        "title": "Minimum Number of Swaps to Make the String Balanced",
+        "titleSlug": "minimum-number-of-swaps-to-make-the-string-balanced",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_2089",
+        "title": "Maximum Matrix Sum",
+        "titleSlug": "maximum-matrix-sum",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_2059",
+        "title": "Unique Length-3 Palindromic Subsequences",
+        "titleSlug": "unique-length-3-palindromic-subsequences",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_2037",
+        "title": "Count Square Sum Triples",
+        "titleSlug": "count-square-sum-triples",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_2015",
+        "title": "Determine Whether Matrix Can Be Obtained By Rotation",
+        "titleSlug": "determine-whether-matrix-can-be-obtained-by-rotation",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_1995",
+        "title": "Finding Pairs With a Certain Sum",
+        "titleSlug": "finding-pairs-with-a-certain-sum",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_1988",
+        "title": "Minimize Maximum Pair Sum in Array",
+        "titleSlug": "minimize-maximum-pair-sum-in-array",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_1966",
+        "title": "Frequency of the Most Frequent Element",
+        "titleSlug": "frequency-of-the-most-frequent-element",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_1938",
+        "title": "Minimum Operations to Make the Array Increasing",
+        "titleSlug": "minimum-operations-to-make-the-array-increasing",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_1927",
+        "title": "Maximum Ascending Subarray Sum",
+        "titleSlug": "maximum-ascending-subarray-sum",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_1925",
+        "title": "Count Nice Pairs in an Array",
+        "titleSlug": "count-nice-pairs-in-an-array",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_1920",
+        "title": "Determine Color of a Chessboard Square",
+        "titleSlug": "determine-color-of-a-chessboard-square",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_1916",
+        "title": "Find Center of Star Graph",
+        "titleSlug": "find-center-of-star-graph",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_1915",
+        "title": "Check if One String Swap Can Make Strings Equal",
+        "titleSlug": "check-if-one-string-swap-can-make-strings-equal",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_1895",
+        "title": "Minimum Number of Operations to Move All Balls to Each Box",
+        "titleSlug": "minimum-number-of-operations-to-move-all-balls-to-each-box",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_1878",
+        "title": "Check if Array Is Sorted and Rotated",
+        "titleSlug": "check-if-array-is-sorted-and-rotated",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_1851",
+        "title": "Maximum Number of Events That Can Be Attended II",
+        "titleSlug": "maximum-number-of-events-that-can-be-attended-ii",
+        "difficulty": 3
+      },
+      {
+        "problemId": "LC_1849",
+        "title": "Maximum Absolute Sum of Any Subarray",
+        "titleSlug": "maximum-absolute-sum-of-any-subarray",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_1834",
+        "title": "Minimum Number of People to Teach",
+        "titleSlug": "minimum-number-of-people-to-teach",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_1829",
+        "title": "Maximum Units on a Truck",
+        "titleSlug": "maximum-units-on-a-truck",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_1826",
+        "title": "Maximum XOR With an Element From Array",
+        "titleSlug": "maximum-xor-with-an-element-from-array",
+        "difficulty": 3
+      },
+      {
+        "problemId": "LC_1818",
+        "title": "Maximum Score From Removing Substrings",
+        "titleSlug": "maximum-score-from-removing-substrings",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_1817",
+        "title": "Calculate Money in Leetcode Bank",
+        "titleSlug": "calculate-money-in-leetcode-bank",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_1813",
+        "title": "Maximum Erasure Value",
+        "titleSlug": "maximum-erasure-value",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_1802",
+        "title": "Number of Students Unable to Eat Lunch",
+        "titleSlug": "number-of-students-unable-to-eat-lunch",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_1777",
+        "title": "Determine if Two Strings Are Close",
+        "titleSlug": "determine-if-two-strings-are-close",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_1765",
+        "title": "Merge In Between Linked Lists",
+        "titleSlug": "merge-in-between-linked-lists",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_1756",
+        "title": "Minimum Deletions to Make String Balanced",
+        "titleSlug": "minimum-deletions-to-make-string-balanced",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_1747",
+        "title": "Lexicographically Smallest String After Applying Operations",
+        "titleSlug": "lexicographically-smallest-string-after-applying-operations",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_1731",
+        "title": "Even Odd Tree",
+        "titleSlug": "even-odd-tree",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_1700",
+        "title": "Minimum Time to Make Rope Colorful",
+        "titleSlug": "minimum-time-to-make-rope-colorful",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_1694",
+        "title": "Make Sum Divisible by P",
+        "titleSlug": "make-sum-divisible-by-p",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_1669",
+        "title": "Minimum Cost to Cut a Stick",
+        "titleSlug": "minimum-cost-to-cut-a-stick",
+        "difficulty": 3
+      },
+      {
+        "problemId": "LC_1667",
+        "title": "Find Kth Bit in Nth Binary String",
+        "titleSlug": "find-kth-bit-in-nth-binary-string",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_1642",
+        "title": "Water Bottles",
+        "titleSlug": "water-bottles",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_1636",
+        "title": "Number of Substrings With Only 1s",
+        "titleSlug": "number-of-substrings-with-only-1s",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_1633",
+        "title": "Minimum Number of Increments on Subarrays to Form a Target Array",
+        "titleSlug": "minimum-number-of-increments-on-subarrays-to-form-a-target-array",
+        "difficulty": 3
+      },
+      {
+        "problemId": "LC_1630",
+        "title": "Count Odd Numbers in an Interval Range",
+        "titleSlug": "count-odd-numbers-in-an-interval-range",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_1621",
+        "title": "Number of Subsequences That Satisfy the Given Sum Condition",
+        "titleSlug": "number-of-subsequences-that-satisfy-the-given-sum-condition",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_1620",
+        "title": "Check If Array Pairs Are Divisible by k",
+        "titleSlug": "check-if-array-pairs-are-divisible-by-k",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_1612",
+        "title": "Avoid Flood in The City",
+        "titleSlug": "avoid-flood-in-the-city",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_1604",
+        "title": "Least Number of Unique Integers after K Removals",
+        "titleSlug": "least-number-of-unique-integers-after-k-removals",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_1603",
+        "title": "Running Sum of 1d Array",
+        "titleSlug": "running-sum-of-1d-array",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_1586",
+        "title": "Longest Subarray of 1's After Deleting One Element",
+        "titleSlug": "longest-subarray-of-1s-after-deleting-one-element",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_1570",
+        "title": "Final Prices With a Special Discount in a Shop",
+        "titleSlug": "final-prices-with-a-special-discount-in-a-shop",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_1569",
+        "title": "Max Dot Product of Two Subsequences",
+        "titleSlug": "max-dot-product-of-two-subsequences",
+        "difficulty": 3
+      },
+      {
+        "problemId": "LC_1548",
+        "title": "Check If All 1's Are at Least Length K Places Away",
+        "titleSlug": "check-if-all-1s-are-at-least-length-k-places-away",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_1533",
+        "title": "Display Table of Food Orders in a Restaurant",
+        "titleSlug": "display-table-of-food-orders-in-a-restaurant",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_1529",
+        "title": "Max Difference You Can Get From Changing an Integer",
+        "titleSlug": "max-difference-you-can-get-from-changing-an-integer",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_1527",
+        "title": "Number of Ways to Paint N × 3 Grid",
+        "titleSlug": "number-of-ways-to-paint-n-3-grid",
+        "difficulty": 3
+      },
+      {
+        "problemId": "LC_1524",
+        "title": "String Matching in an Array",
+        "titleSlug": "string-matching-in-an-array",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_1522",
+        "title": "Stone Game III",
+        "titleSlug": "stone-game-iii",
+        "difficulty": 3
+      },
+      {
+        "problemId": "LC_1514",
+        "title": "Minimum Value to Get Positive Step by Step Sum",
+        "titleSlug": "minimum-value-to-get-positive-step-by-step-sum",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_1510",
+        "title": "Find Lucky Integer in an Array",
+        "titleSlug": "find-lucky-integer-in-an-array",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_1503",
+        "title": "Reducing Dishes",
+        "titleSlug": "reducing-dishes",
+        "difficulty": 3
+      },
+      {
+        "problemId": "LC_1502",
+        "title": "Construct K Palindrome Strings",
+        "titleSlug": "construct-k-palindrome-strings",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_1500",
+        "title": "Count Largest Group",
+        "titleSlug": "count-largest-group",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_1478",
+        "title": "Maximum Number of Events That Can Be Attended",
+        "titleSlug": "maximum-number-of-events-that-can-be-attended",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_1476",
+        "title": "Count Negative Numbers in a Sorted Matrix",
+        "titleSlug": "count-negative-numbers-in-a-sorted-matrix",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_1465",
+        "title": "Maximum Product of Splitted Binary Tree",
+        "titleSlug": "maximum-product-of-splitted-binary-tree",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_1448",
+        "title": "Maximum 69 Number",
+        "titleSlug": "maximum-69-number",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_1446",
+        "title": "Angle Between Hands of a Clock",
+        "titleSlug": "angle-between-hands-of-a-clock",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_1445",
+        "title": "Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold",
+        "titleSlug": "number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_1440",
+        "title": "Convert Integer to the Sum of Two No-Zero Integers",
+        "titleSlug": "convert-integer-to-the-sum-of-two-no-zero-integers",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_1437",
+        "title": "Minimum Insertion Steps to Make a String Palindrome",
+        "titleSlug": "minimum-insertion-steps-to-make-a-string-palindrome",
+        "difficulty": 3
+      },
+      {
+        "problemId": "LC_1436",
+        "title": "Get Watched Videos by Your Friends",
+        "titleSlug": "get-watched-videos-by-your-friends",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_1428",
+        "title": "Jump Game III",
+        "titleSlug": "jump-game-iii",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_1426",
+        "title": "Find N Unique Integers Sum up to Zero",
+        "titleSlug": "find-n-unique-integers-sum-up-to-zero",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_1424",
+        "title": "Maximum Candies You Can Get from Boxes",
+        "titleSlug": "maximum-candies-you-can-get-from-boxes",
+        "difficulty": 3
+      },
+      {
+        "problemId": "LC_1413",
+        "title": "Maximum Side Length of a Square with Sum Less than or Equal to Threshold",
+        "titleSlug": "maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_1411",
+        "title": "Convert Binary Number in a Linked List to Integer",
+        "titleSlug": "convert-binary-number-in-a-linked-list-to-integer",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_1402",
+        "title": "Count Square Submatrices with All Ones",
+        "titleSlug": "count-square-submatrices-with-all-ones",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_1395",
+        "title": "Minimum Time Visiting All Points",
+        "titleSlug": "minimum-time-visiting-all-points",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_1388",
+        "title": "Greatest Sum Divisible by Three",
+        "titleSlug": "greatest-sum-divisible-by-three",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_1369",
+        "title": "Minimum Swaps to Make Strings Equal",
+        "titleSlug": "minimum-swaps-to-make-strings-equal",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_1364",
+        "title": "Tuple with Same Product",
+        "titleSlug": "tuple-with-same-product",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_1353",
+        "title": "Find Resultant Array After Removing Anagrams",
+        "titleSlug": "find-resultant-array-after-removing-anagrams",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_1350",
+        "title": "Remove Sub-Folders from the Filesystem",
+        "titleSlug": "remove-sub-folders-from-the-filesystem",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_1325",
+        "title": "Path with Maximum Probability",
+        "titleSlug": "path-with-maximum-probability",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_1319",
+        "title": "Unique Number of Occurrences",
+        "titleSlug": "unique-number-of-occurrences",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_1311",
+        "title": "Largest Magic Square",
+        "titleSlug": "largest-magic-square",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_1306",
+        "title": "Minimum Absolute Difference",
+        "titleSlug": "minimum-absolute-difference",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_1305",
+        "title": "Number of Visible People in a Queue",
+        "titleSlug": "number-of-visible-people-in-a-queue",
+        "difficulty": 3
+      },
+      {
+        "problemId": "LC_1302",
+        "title": "Delete Characters to Make Fancy String",
+        "titleSlug": "delete-characters-to-make-fancy-string",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_1294",
+        "title": "Range Frequency Queries",
+        "titleSlug": "range-frequency-queries",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_1288",
+        "title": "Maximum Subarray Sum with One Deletion",
+        "titleSlug": "maximum-subarray-sum-with-one-deletion",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_1285",
+        "title": "Balance a Binary Search Tree",
+        "titleSlug": "balance-a-binary-search-tree",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_1284",
+        "title": "Four Divisors",
+        "titleSlug": "four-divisors",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_1264",
+        "title": "Maximum Number of Words You Can Type",
+        "titleSlug": "maximum-number-of-words-you-can-type",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_1263",
+        "title": "Number of Dice Rolls With Target Sum",
+        "titleSlug": "number-of-dice-rolls-with-target-sum",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_1252",
+        "title": "Break a Palindrome",
+        "titleSlug": "break-a-palindrome",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_1250",
+        "title": "Longest Common Subsequence",
+        "titleSlug": "longest-common-subsequence",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_1236",
+        "title": "N-th Tribonacci Number",
+        "titleSlug": "n-th-tribonacci-number",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_1206",
+        "title": "Corporate Flight Bookings",
+        "titleSlug": "corporate-flight-bookings",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_1171",
+        "title": "Shortest Path in Binary Matrix",
+        "titleSlug": "shortest-path-in-binary-matrix",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_1170",
+        "title": "Shortest Common Supersequence ",
+        "titleSlug": "shortest-common-supersequence",
+        "difficulty": 3
+      },
+      {
+        "problemId": "LC_1138",
+        "title": "Grumpy Bookstore Owner",
+        "titleSlug": "grumpy-bookstore-owner",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_1127",
+        "title": "Last Stone Weight",
+        "titleSlug": "last-stone-weight",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_1116",
+        "title": "Maximum Level Sum of a Binary Tree",
+        "titleSlug": "maximum-level-sum-of-a-binary-tree",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_1114",
+        "title": "Binary Search Tree to Greater Sum Tree",
+        "titleSlug": "binary-search-tree-to-greater-sum-tree",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_1104",
+        "title": "Coloring A Border",
+        "titleSlug": "coloring-a-border",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_1086",
+        "title": "Divisor Game",
+        "titleSlug": "divisor-game",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_1073",
+        "title": "Number of Enclaves",
+        "titleSlug": "number-of-enclaves",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_1072",
+        "title": "Next Greater Node In Linked List",
+        "titleSlug": "next-greater-node-in-linked-list",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_1071",
+        "title": "Binary Prefix Divisible By 5",
+        "titleSlug": "binary-prefix-divisible-by-5",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_1064",
+        "title": "Smallest Integer Divisible by K",
+        "titleSlug": "smallest-integer-divisible-by-k",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_1058",
+        "title": "Lexicographically Smallest Equivalent String",
+        "titleSlug": "lexicographically-smallest-equivalent-string",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_1056",
+        "title": "Capacity To Ship Packages Within D Days",
+        "titleSlug": "capacity-to-ship-packages-within-d-days",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_1055",
+        "title": "Pairs of Songs With Total Durations Divisible by 60",
+        "titleSlug": "pairs-of-songs-with-total-durations-divisible-by-60",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_1050",
+        "title": "Construct Binary Search Tree from Preorder Traversal",
+        "titleSlug": "construct-binary-search-tree-from-preorder-traversal",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_1047",
+        "title": "Maximize Sum Of Array After K Negations",
+        "titleSlug": "maximize-sum-of-array-after-k-negations",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_1046",
+        "title": "Max Consecutive Ones III",
+        "titleSlug": "max-consecutive-ones-iii",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_1044",
+        "title": "Find Common Characters",
+        "titleSlug": "find-common-characters",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_1036",
+        "title": "Rotting Oranges",
+        "titleSlug": "rotting-oranges",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_1034",
+        "title": "Subarrays with K Different Integers",
+        "titleSlug": "subarrays-with-k-different-integers",
+        "difficulty": 3
+      },
+      {
+        "problemId": "LC_1032",
+        "title": "Satisfiability of Equality Equations",
+        "titleSlug": "satisfiability-of-equality-equations",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_1029",
+        "title": "Vertical Order Traversal of a Binary Tree",
+        "titleSlug": "vertical-order-traversal-of-a-binary-tree",
+        "difficulty": 3
+      },
+      {
+        "problemId": "LC_1028",
+        "title": "Interval List Intersections",
+        "titleSlug": "interval-list-intersections",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_1025",
+        "title": "Minimum Cost For Tickets",
+        "titleSlug": "minimum-cost-for-tickets",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_1022",
+        "title": "Unique Paths III",
+        "titleSlug": "unique-paths-iii",
+        "difficulty": 3
+      },
+      {
+        "problemId": "LC_1019",
+        "title": "Squares of a Sorted Array",
+        "titleSlug": "squares-of-a-sorted-array",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_1018",
+        "title": "Largest Perimeter Triangle",
+        "titleSlug": "largest-perimeter-triangle",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_1006",
+        "title": "Vowel Spellchecker",
+        "titleSlug": "vowel-spellchecker",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_1001",
+        "title": "N-Repeated Element in Size 2N Array",
+        "titleSlug": "n-repeated-element-in-size-2n-array",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_1000",
+        "title": "Delete Columns to Make Sorted III",
+        "titleSlug": "delete-columns-to-make-sorted-iii",
+        "difficulty": 3
+      },
+      {
+        "problemId": "LC_987",
+        "title": "Reveal Cards In Increasing Order",
+        "titleSlug": "reveal-cards-in-increasing-order",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_984",
+        "title": "Most Stones Removed with Same Row or Column",
+        "titleSlug": "most-stones-removed-with-same-row-or-column",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_982",
+        "title": "Minimum Increment to Make Array Unique",
+        "titleSlug": "minimum-increment-to-make-array-unique",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_981",
+        "title": "Delete Columns to Make Sorted",
+        "titleSlug": "delete-columns-to-make-sorted",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_975",
+        "title": "Range Sum of BST",
+        "titleSlug": "range-sum-of-bst",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_967",
+        "title": "Minimum Falling Path Sum",
+        "titleSlug": "minimum-falling-path-sum",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_966",
+        "title": "Binary Subarrays With Sum",
+        "titleSlug": "binary-subarrays-with-sum",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_965",
+        "title": "Unique Email Addresses",
+        "titleSlug": "unique-email-addresses",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_952",
+        "title": "Word Subsets",
+        "titleSlug": "word-subsets",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_941",
+        "title": "Sort Array By Parity",
+        "titleSlug": "sort-array-by-parity",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_940",
+        "title": "Fruit Into Baskets",
+        "titleSlug": "fruit-into-baskets",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_934",
+        "title": "Bitwise ORs of Subarrays",
+        "titleSlug": "bitwise-ors-of-subarrays",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_917",
+        "title": "Boats to Save People",
+        "titleSlug": "boats-to-save-people",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_909",
+        "title": "Stone Game",
+        "titleSlug": "stone-game",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_908",
+        "title": "Middle of the Linked List",
+        "titleSlug": "middle-of-the-linked-list",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_907",
+        "title": "Koko Eating Bananas",
+        "titleSlug": "koko-eating-bananas",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_900",
+        "title": "Reordered Power of 2",
+        "titleSlug": "reordered-power-of-2",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_896",
+        "title": "Smallest Subtree with all the Deepest Nodes",
+        "titleSlug": "smallest-subtree-with-all-the-deepest-nodes",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_891",
+        "title": "Score After Flipping Matrix",
+        "titleSlug": "score-after-flipping-matrix",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_882",
+        "title": "Peak Index in a Mountain Array",
+        "titleSlug": "peak-index-in-a-mountain-array",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_878",
+        "title": "Shifting Letters",
+        "titleSlug": "shifting-letters",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_871",
+        "title": "Keys and Rooms",
+        "titleSlug": "keys-and-rooms",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_870",
+        "title": "Magic Squares In Grid",
+        "titleSlug": "magic-squares-in-grid",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_860",
+        "title": "Design Circular Queue",
+        "titleSlug": "design-circular-queue",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_853",
+        "title": "Most Profit Assigning Work",
+        "titleSlug": "most-profit-assigning-work",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_832",
+        "title": "Binary Tree Pruning",
+        "titleSlug": "binary-tree-pruning",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_830",
+        "title": "Largest Triangle Area",
+        "titleSlug": "largest-triangle-area",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_826",
+        "title": "Soup Servings",
+        "titleSlug": "soup-servings",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_820",
+        "title": "Find Eventual Safe States",
+        "titleSlug": "find-eventual-safe-states",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_815",
+        "title": "Champagne Tower",
+        "titleSlug": "champagne-tower",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_813",
+        "title": "All Paths From Source to Target",
+        "titleSlug": "all-paths-from-source-to-target",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_797",
+        "title": "Rabbits in Forest",
+        "titleSlug": "rabbits-in-forest",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_795",
+        "title": "K-th Symbol in Grammar",
+        "titleSlug": "k-th-symbol-in-grammar",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_794",
+        "title": "Swim in Rising Water",
+        "titleSlug": "swim-in-rising-water",
+        "difficulty": 3
+      },
+      {
+        "problemId": "LC_784",
+        "title": "Insert into a Binary Search Tree",
+        "titleSlug": "insert-into-a-binary-search-tree",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_783",
+        "title": "Search in a Binary Search Tree",
+        "titleSlug": "search-in-a-binary-search-tree",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_782",
+        "title": "Jewels and Stones",
+        "titleSlug": "jewels-and-stones",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_766",
+        "title": "Flatten a Multilevel Doubly Linked List",
+        "titleSlug": "flatten-a-multilevel-doubly-linked-list",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_757",
+        "title": "Pyramid Transition Matrix",
+        "titleSlug": "pyramid-transition-matrix",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_747",
+        "title": "Min Cost Climbing Stairs",
+        "titleSlug": "min-cost-climbing-stairs",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_745",
+        "title": "Find Smallest Letter Greater Than Target",
+        "titleSlug": "find-smallest-letter-greater-than-target",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_744",
+        "title": "Network Delay Time",
+        "titleSlug": "network-delay-time",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_741",
+        "title": "Cherry Pickup",
+        "titleSlug": "cherry-pickup",
+        "difficulty": 3
+      },
+      {
+        "problemId": "LC_740",
+        "title": "Delete and Earn",
+        "titleSlug": "delete-and-earn",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_733",
+        "title": "Flood Fill",
+        "titleSlug": "flood-fill",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_725",
+        "title": "Split Linked List in Parts",
+        "titleSlug": "split-linked-list-in-parts",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_724",
+        "title": "Find Pivot Index",
+        "titleSlug": "find-pivot-index",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_718",
+        "title": "Maximum Length of Repeated Subarray",
+        "titleSlug": "maximum-length-of-repeated-subarray",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_717",
+        "title": "1-bit and 2-bit Characters",
+        "titleSlug": "1-bit-and-2-bit-characters",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_714",
+        "title": "Best Time to Buy and Sell Stock with Transaction Fee",
+        "titleSlug": "best-time-to-buy-and-sell-stock-with-transaction-fee",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_713",
+        "title": "Subarray Product Less Than K",
+        "titleSlug": "subarray-product-less-than-k",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_712",
+        "title": "Minimum ASCII Delete Sum for Two Strings",
+        "titleSlug": "minimum-ascii-delete-sum-for-two-strings",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_696",
+        "title": "Count Binary Substrings",
+        "titleSlug": "count-binary-substrings",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_693",
+        "title": "Binary Number with Alternating Bits",
+        "titleSlug": "binary-number-with-alternating-bits",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_688",
+        "title": "Knight Probability in Chessboard",
+        "titleSlug": "knight-probability-in-chessboard",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_679",
+        "title": "24 Game",
+        "titleSlug": "24-game",
+        "difficulty": 3
+      },
+      {
+        "problemId": "LC_669",
+        "title": "Trim a Binary Search Tree",
+        "titleSlug": "trim-a-binary-search-tree",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_665",
+        "title": "Non-decreasing Array",
+        "titleSlug": "non-decreasing-array",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_658",
+        "title": "Find K Closest Elements",
+        "titleSlug": "find-k-closest-elements",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_650",
+        "title": "2 Keys Keyboard",
+        "titleSlug": "2-keys-keyboard",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_649",
+        "title": "Dota2 Senate",
+        "titleSlug": "dota2-senate",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_647",
+        "title": "Palindromic Substrings",
+        "titleSlug": "palindromic-substrings",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_633",
+        "title": "Sum of Square Numbers",
+        "titleSlug": "sum-of-square-numbers",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_599",
+        "title": "Minimum Index Sum of Two Lists",
+        "titleSlug": "minimum-index-sum-of-two-lists",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_596",
+        "title": "Classes With at Least 5 Students",
+        "titleSlug": "classes-with-at-least-5-students",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_595",
+        "title": "Big Countries",
+        "titleSlug": "big-countries",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_594",
+        "title": "Longest Harmonious Subsequence",
+        "titleSlug": "longest-harmonious-subsequence",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_586",
+        "title": "Customer Placing the Largest Number of Orders",
+        "titleSlug": "customer-placing-the-largest-number-of-orders",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_584",
+        "title": "Find Customer Referee",
+        "titleSlug": "find-customer-referee",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_583",
+        "title": "Delete Operation for Two Strings",
+        "titleSlug": "delete-operation-for-two-strings",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_577",
+        "title": "Employee Bonus",
+        "titleSlug": "employee-bonus",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_572",
+        "title": "Subtree of Another Tree",
+        "titleSlug": "subtree-of-another-tree",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_560",
+        "title": "Subarray Sum Equals K",
+        "titleSlug": "subarray-sum-equals-k",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_556",
+        "title": "Next Greater Element III",
+        "titleSlug": "next-greater-element-iii",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_543",
+        "title": "Diameter of Binary Tree",
+        "titleSlug": "diameter-of-binary-tree",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_542",
+        "title": "01 Matrix",
+        "titleSlug": "01-matrix",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_528",
+        "title": "Swapping Nodes in a Linked List",
+        "titleSlug": "swapping-nodes-in-a-linked-list",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_525",
+        "title": "Contiguous Array",
+        "titleSlug": "contiguous-array",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_518",
+        "title": "Coin Change II",
+        "titleSlug": "coin-change-ii",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_516",
+        "title": "Longest Palindromic Subsequence",
+        "titleSlug": "longest-palindromic-subsequence",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_507",
+        "title": "Perfect Number",
+        "titleSlug": "perfect-number",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_500",
+        "title": "Keyboard Row",
+        "titleSlug": "keyboard-row",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_498",
+        "title": "Diagonal Traverse",
+        "titleSlug": "diagonal-traverse",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_494",
+        "title": "Target Sum",
+        "titleSlug": "target-sum",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_474",
+        "title": "Ones and Zeroes",
+        "titleSlug": "ones-and-zeroes",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_463",
+        "title": "Island Perimeter",
+        "titleSlug": "island-perimeter",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_455",
+        "title": "Assign Cookies",
+        "titleSlug": "assign-cookies",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_453",
+        "title": "Minimum Moves to Equal Array Elements",
+        "titleSlug": "minimum-moves-to-equal-array-elements",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_452",
+        "title": "Minimum Number of Arrows to Burst Balloons",
+        "titleSlug": "minimum-number-of-arrows-to-burst-balloons",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_450",
+        "title": "Delete Node in a BST",
+        "titleSlug": "delete-node-in-a-bst",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_448",
+        "title": "Find All Numbers Disappeared in an Array",
+        "titleSlug": "find-all-numbers-disappeared-in-an-array",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_443",
+        "title": "String Compression",
+        "titleSlug": "string-compression",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_437",
+        "title": "Path Sum III",
+        "titleSlug": "path-sum-iii",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_435",
+        "title": "Non-overlapping Intervals",
+        "titleSlug": "non-overlapping-intervals",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_424",
+        "title": "Longest Repeating Character Replacement",
+        "titleSlug": "longest-repeating-character-replacement",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_421",
+        "title": "Maximum XOR of Two Numbers in an Array",
+        "titleSlug": "maximum-xor-of-two-numbers-in-an-array",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_417",
+        "title": "Pacific Atlantic Water Flow",
+        "titleSlug": "pacific-atlantic-water-flow",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_416",
+        "title": "Partition Equal Subset Sum",
+        "titleSlug": "partition-equal-subset-sum",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_413",
+        "title": "Arithmetic Slices",
+        "titleSlug": "arithmetic-slices",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_407",
+        "title": "Trapping Rain Water II",
+        "titleSlug": "trapping-rain-water-ii",
+        "difficulty": 3
+      },
+      {
+        "problemId": "LC_401",
+        "title": "Binary Watch",
+        "titleSlug": "binary-watch",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_399",
+        "title": "Evaluate Division",
+        "titleSlug": "evaluate-division",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_390",
+        "title": "Elimination Game",
+        "titleSlug": "elimination-game",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_386",
+        "title": "Lexicographical Numbers",
+        "titleSlug": "lexicographical-numbers",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_378",
+        "title": "Kth Smallest Element in a Sorted Matrix",
+        "titleSlug": "kth-smallest-element-in-a-sorted-matrix",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_368",
+        "title": "Largest Divisible Subset",
+        "titleSlug": "largest-divisible-subset",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_347",
+        "title": "Top K Frequent Elements",
+        "titleSlug": "top-k-frequent-elements",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_345",
+        "title": "Reverse Vowels of a String",
+        "titleSlug": "reverse-vowels-of-a-string",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_343",
+        "title": "Integer Break",
+        "titleSlug": "integer-break",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_342",
+        "title": "Power of Four",
+        "titleSlug": "power-of-four",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_338",
+        "title": "Counting Bits",
+        "titleSlug": "counting-bits",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_328",
+        "title": "Odd Even Linked List",
+        "titleSlug": "odd-even-linked-list",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_326",
+        "title": "Power of Three",
+        "titleSlug": "power-of-three",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_324",
+        "title": "Wiggle Sort II",
+        "titleSlug": "wiggle-sort-ii",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_322",
+        "title": "Coin Change",
+        "titleSlug": "coin-change",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_309",
+        "title": "Best Time to Buy and Sell Stock with Cooldown",
+        "titleSlug": "best-time-to-buy-and-sell-stock-with-cooldown",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_307",
+        "title": "Range Sum Query - Mutable",
+        "titleSlug": "range-sum-query-mutable",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_303",
+        "title": "Range Sum Query - Immutable",
+        "titleSlug": "range-sum-query-immutable",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_301",
+        "title": "Remove Invalid Parentheses",
+        "titleSlug": "remove-invalid-parentheses",
+        "difficulty": 3
+      },
+      {
+        "problemId": "LC_300",
+        "title": "Longest Increasing Subsequence",
+        "titleSlug": "longest-increasing-subsequence",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_287",
+        "title": "Find the Duplicate Number",
+        "titleSlug": "find-the-duplicate-number",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_283",
+        "title": "Move Zeroes",
+        "titleSlug": "move-zeroes",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_268",
+        "title": "Missing Number",
+        "titleSlug": "missing-number",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_263",
+        "title": "Ugly Number",
+        "titleSlug": "ugly-number",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_257",
+        "title": "Binary Tree Paths",
+        "titleSlug": "binary-tree-paths",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_242",
+        "title": "Valid Anagram",
+        "titleSlug": "valid-anagram",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_240",
+        "title": "Search a 2D Matrix II",
+        "titleSlug": "search-a-2d-matrix-ii",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_239",
+        "title": "Sliding Window Maximum",
+        "titleSlug": "sliding-window-maximum",
+        "difficulty": 3
+      },
+      {
+        "problemId": "LC_238",
+        "title": "Product of Array Except Self",
+        "titleSlug": "product-of-array-except-self",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_237",
+        "title": "Delete Node in a Linked List",
+        "titleSlug": "delete-node-in-a-linked-list",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_236",
+        "title": "Lowest Common Ancestor of a Binary Tree",
+        "titleSlug": "lowest-common-ancestor-of-a-binary-tree",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_235",
+        "title": "Lowest Common Ancestor of a Binary Search Tree",
+        "titleSlug": "lowest-common-ancestor-of-a-binary-search-tree",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_234",
+        "title": "Palindrome Linked List",
+        "titleSlug": "palindrome-linked-list",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_233",
+        "title": "Number of Digit One",
+        "titleSlug": "number-of-digit-one",
+        "difficulty": 3
+      },
+      {
+        "problemId": "LC_232",
+        "title": "Implement Queue using Stacks",
+        "titleSlug": "implement-queue-using-stacks",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_231",
+        "title": "Power of Two",
+        "titleSlug": "power-of-two",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_230",
+        "title": "Kth Smallest Element in a BST",
+        "titleSlug": "kth-smallest-element-in-a-bst",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_227",
+        "title": "Basic Calculator II",
+        "titleSlug": "basic-calculator-ii",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_226",
+        "title": "Invert Binary Tree",
+        "titleSlug": "invert-binary-tree",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_221",
+        "title": "Maximal Square",
+        "titleSlug": "maximal-square",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_217",
+        "title": "Contains Duplicate",
+        "titleSlug": "contains-duplicate",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_215",
+        "title": "Kth Largest Element in an Array",
+        "titleSlug": "kth-largest-element-in-an-array",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_213",
+        "title": "House Robber II",
+        "titleSlug": "house-robber-ii",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_212",
+        "title": "Word Search II",
+        "titleSlug": "word-search-ii",
+        "difficulty": 3
+      },
+      {
+        "problemId": "LC_210",
+        "title": "Course Schedule II",
+        "titleSlug": "course-schedule-ii",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_209",
+        "title": "Minimum Size Subarray Sum",
+        "titleSlug": "minimum-size-subarray-sum",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_208",
+        "title": "Implement Trie (Prefix Tree)",
+        "titleSlug": "implement-trie-prefix-tree",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_206",
+        "title": "Reverse Linked List",
+        "titleSlug": "reverse-linked-list",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_204",
+        "title": "Count Primes",
+        "titleSlug": "count-primes",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_203",
+        "title": "Remove Linked List Elements",
+        "titleSlug": "remove-linked-list-elements",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_202",
+        "title": "Happy Number",
+        "titleSlug": "happy-number",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_201",
+        "title": "Bitwise AND of Numbers Range",
+        "titleSlug": "bitwise-and-of-numbers-range",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_200",
+        "title": "Number of Islands",
+        "titleSlug": "number-of-islands",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_199",
+        "title": "Binary Tree Right Side View",
+        "titleSlug": "binary-tree-right-side-view",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_198",
+        "title": "House Robber",
+        "titleSlug": "house-robber",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_197",
+        "title": "Rising Temperature",
+        "titleSlug": "rising-temperature",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_190",
+        "title": "Reverse Bits",
+        "titleSlug": "reverse-bits",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_188",
+        "title": "Best Time to Buy and Sell Stock IV",
+        "titleSlug": "best-time-to-buy-and-sell-stock-iv",
+        "difficulty": 3
+      },
+      {
+        "problemId": "LC_183",
+        "title": "Customers Who Never Order",
+        "titleSlug": "customers-who-never-order",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_182",
+        "title": "Duplicate Emails",
+        "titleSlug": "duplicate-emails",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_181",
+        "title": "Employees Earning More Than Their Managers",
+        "titleSlug": "employees-earning-more-than-their-managers",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_176",
+        "title": "Second Highest Salary",
+        "titleSlug": "second-highest-salary",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_175",
+        "title": "Combine Two Tables",
+        "titleSlug": "combine-two-tables",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_166",
+        "title": "Fraction to Recurring Decimal",
+        "titleSlug": "fraction-to-recurring-decimal",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_165",
+        "title": "Compare Version Numbers",
+        "titleSlug": "compare-version-numbers",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_162",
+        "title": "Find Peak Element",
+        "titleSlug": "find-peak-element",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_160",
+        "title": "Intersection of Two Linked Lists",
+        "titleSlug": "intersection-of-two-linked-lists",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_155",
+        "title": "Min Stack",
+        "titleSlug": "min-stack",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_154",
+        "title": "Find Minimum in Rotated Sorted Array II",
+        "titleSlug": "find-minimum-in-rotated-sorted-array-ii",
+        "difficulty": 3
+      },
+      {
+        "problemId": "LC_153",
+        "title": "Find Minimum in Rotated Sorted Array",
+        "titleSlug": "find-minimum-in-rotated-sorted-array",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_152",
+        "title": "Maximum Product Subarray",
+        "titleSlug": "maximum-product-subarray",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_149",
+        "title": "Max Points on a Line",
+        "titleSlug": "max-points-on-a-line",
+        "difficulty": 3
+      },
+      {
+        "problemId": "LC_148",
+        "title": "Sort List",
+        "titleSlug": "sort-list",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_147",
+        "title": "Insertion Sort List",
+        "titleSlug": "insertion-sort-list",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_146",
+        "title": "LRU Cache",
+        "titleSlug": "lru-cache",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_145",
+        "title": "Binary Tree Postorder Traversal",
+        "titleSlug": "binary-tree-postorder-traversal",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_144",
+        "title": "Binary Tree Preorder Traversal",
+        "titleSlug": "binary-tree-preorder-traversal",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_143",
+        "title": "Reorder List",
+        "titleSlug": "reorder-list",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_142",
+        "title": "Linked List Cycle II",
+        "titleSlug": "linked-list-cycle-ii",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_141",
+        "title": "Linked List Cycle",
+        "titleSlug": "linked-list-cycle",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_139",
+        "title": "Word Break",
+        "titleSlug": "word-break",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_136",
+        "title": "Single Number",
+        "titleSlug": "single-number",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_135",
+        "title": "Candy",
+        "titleSlug": "candy",
+        "difficulty": 3
+      },
+      {
+        "problemId": "LC_133",
+        "title": "Clone Graph",
+        "titleSlug": "clone-graph",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_131",
+        "title": "Palindrome Partitioning",
+        "titleSlug": "palindrome-partitioning",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_130",
+        "title": "Surrounded Regions",
+        "titleSlug": "surrounded-regions",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_128",
+        "title": "Longest Consecutive Sequence",
+        "titleSlug": "longest-consecutive-sequence",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_122",
+        "title": "Best Time to Buy and Sell Stock II",
+        "titleSlug": "best-time-to-buy-and-sell-stock-ii",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_121",
+        "title": "Best Time to Buy and Sell Stock",
+        "titleSlug": "best-time-to-buy-and-sell-stock",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_120",
+        "title": "Triangle",
+        "titleSlug": "triangle",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_118",
+        "title": "Pascal's Triangle",
+        "titleSlug": "pascals-triangle",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_113",
+        "title": "Path Sum II",
+        "titleSlug": "path-sum-ii",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_112",
+        "title": "Path Sum",
+        "titleSlug": "path-sum",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_110",
+        "title": "Balanced Binary Tree",
+        "titleSlug": "balanced-binary-tree",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_108",
+        "title": "Convert Sorted Array to Binary Search Tree",
+        "titleSlug": "convert-sorted-array-to-binary-search-tree",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_103",
+        "title": "Binary Tree Zigzag Level Order Traversal",
+        "titleSlug": "binary-tree-zigzag-level-order-traversal",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_102",
+        "title": "Binary Tree Level Order Traversal",
+        "titleSlug": "binary-tree-level-order-traversal",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_101",
+        "title": "Symmetric Tree",
+        "titleSlug": "symmetric-tree",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_100",
+        "title": "Same Tree",
+        "titleSlug": "same-tree",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_98",
+        "title": "Validate Binary Search Tree",
+        "titleSlug": "validate-binary-search-tree",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_96",
+        "title": "Unique Binary Search Trees",
+        "titleSlug": "unique-binary-search-trees",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_92",
+        "title": "Reverse Linked List II",
+        "titleSlug": "reverse-linked-list-ii",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_91",
+        "title": "Decode Ways",
+        "titleSlug": "decode-ways",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_90",
+        "title": "Subsets II",
+        "titleSlug": "subsets-ii",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_88",
+        "title": "Merge Sorted Array",
+        "titleSlug": "merge-sorted-array",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_86",
+        "title": "Partition List",
+        "titleSlug": "partition-list",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_85",
+        "title": "Maximal Rectangle",
+        "titleSlug": "maximal-rectangle",
+        "difficulty": 3
+      },
+      {
+        "problemId": "LC_84",
+        "title": "Largest Rectangle in Histogram",
+        "titleSlug": "largest-rectangle-in-histogram",
+        "difficulty": 3
+      },
+      {
+        "problemId": "LC_83",
+        "title": "Remove Duplicates from Sorted List",
+        "titleSlug": "remove-duplicates-from-sorted-list",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_82",
+        "title": "Remove Duplicates from Sorted List II",
+        "titleSlug": "remove-duplicates-from-sorted-list-ii",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_81",
+        "title": "Search in Rotated Sorted Array II",
+        "titleSlug": "search-in-rotated-sorted-array-ii",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_78",
+        "title": "Subsets",
+        "titleSlug": "subsets",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_76",
+        "title": "Minimum Window Substring",
+        "titleSlug": "minimum-window-substring",
+        "difficulty": 3
+      },
+      {
+        "problemId": "LC_75",
+        "title": "Sort Colors",
+        "titleSlug": "sort-colors",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_74",
+        "title": "Search a 2D Matrix",
+        "titleSlug": "search-a-2d-matrix",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_73",
+        "title": "Set Matrix Zeroes",
+        "titleSlug": "set-matrix-zeroes",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_72",
+        "title": "Edit Distance",
+        "titleSlug": "edit-distance",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_70",
+        "title": "Climbing Stairs",
+        "titleSlug": "climbing-stairs",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_69",
+        "title": "Sqrt(x)",
+        "titleSlug": "sqrtx",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_67",
+        "title": "Add Binary",
+        "titleSlug": "add-binary",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_66",
+        "title": "Plus One",
+        "titleSlug": "plus-one",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_64",
+        "title": "Minimum Path Sum",
+        "titleSlug": "minimum-path-sum",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_63",
+        "title": "Unique Paths II",
+        "titleSlug": "unique-paths-ii",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_62",
+        "title": "Unique Paths",
+        "titleSlug": "unique-paths",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_61",
+        "title": "Rotate List",
+        "titleSlug": "rotate-list",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_60",
+        "title": "Permutation Sequence",
+        "titleSlug": "permutation-sequence",
+        "difficulty": 3
+      },
+      {
+        "problemId": "LC_56",
+        "title": "Merge Intervals",
+        "titleSlug": "merge-intervals",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_55",
+        "title": "Jump Game",
+        "titleSlug": "jump-game",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_54",
+        "title": "Spiral Matrix",
+        "titleSlug": "spiral-matrix",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_53",
+        "title": "Maximum Subarray",
+        "titleSlug": "maximum-subarray",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_50",
+        "title": "Pow(x, n)",
+        "titleSlug": "powx-n",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_49",
+        "title": "Group Anagrams",
+        "titleSlug": "group-anagrams",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_48",
+        "title": "Rotate Image",
+        "titleSlug": "rotate-image",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_47",
+        "title": "Permutations II",
+        "titleSlug": "permutations-ii",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_46",
+        "title": "Permutations",
+        "titleSlug": "permutations",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_45",
+        "title": "Jump Game II",
+        "titleSlug": "jump-game-ii",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_42",
+        "title": "Trapping Rain Water",
+        "titleSlug": "trapping-rain-water",
+        "difficulty": 3
+      },
+      {
+        "problemId": "LC_41",
+        "title": "First Missing Positive",
+        "titleSlug": "first-missing-positive",
+        "difficulty": 3
+      },
+      {
+        "problemId": "LC_40",
+        "title": "Combination Sum II",
+        "titleSlug": "combination-sum-ii",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_39",
+        "title": "Combination Sum",
+        "titleSlug": "combination-sum",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_38",
+        "title": "Count and Say",
+        "titleSlug": "count-and-say",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_37",
+        "title": "Sudoku Solver",
+        "titleSlug": "sudoku-solver",
+        "difficulty": 3
+      },
+      {
+        "problemId": "LC_36",
+        "title": "Valid Sudoku",
+        "titleSlug": "valid-sudoku",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_34",
+        "title": "Find First and Last Position of Element in Sorted Array",
+        "titleSlug": "find-first-and-last-position-of-element-in-sorted-array",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_33",
+        "title": "Search in Rotated Sorted Array",
+        "titleSlug": "search-in-rotated-sorted-array",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_32",
+        "title": "Longest Valid Parentheses",
+        "titleSlug": "longest-valid-parentheses",
+        "difficulty": 3
+      },
+      {
+        "problemId": "LC_31",
+        "title": "Next Permutation",
+        "titleSlug": "next-permutation",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_26",
+        "title": "Remove Duplicates from Sorted Array",
+        "titleSlug": "remove-duplicates-from-sorted-array",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_25",
+        "title": "Reverse Nodes in k-Group",
+        "titleSlug": "reverse-nodes-in-k-group",
+        "difficulty": 3
+      },
+      {
+        "problemId": "LC_24",
+        "title": "Swap Nodes in Pairs",
+        "titleSlug": "swap-nodes-in-pairs",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_23",
+        "title": "Merge k Sorted Lists",
+        "titleSlug": "merge-k-sorted-lists",
+        "difficulty": 3
+      },
+      {
+        "problemId": "LC_22",
+        "title": "Generate Parentheses",
+        "titleSlug": "generate-parentheses",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_21",
+        "title": "Merge Two Sorted Lists",
+        "titleSlug": "merge-two-sorted-lists",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_20",
+        "title": "Valid Parentheses",
+        "titleSlug": "valid-parentheses",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_19",
+        "title": "Remove Nth Node From End of List",
+        "titleSlug": "remove-nth-node-from-end-of-list",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_18",
+        "title": "4Sum",
+        "titleSlug": "4sum",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_17",
+        "title": "Letter Combinations of a Phone Number",
+        "titleSlug": "letter-combinations-of-a-phone-number",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_16",
+        "title": "3Sum Closest",
+        "titleSlug": "3sum-closest",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_15",
+        "title": "3Sum",
+        "titleSlug": "3sum",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_14",
+        "title": "Longest Common Prefix",
+        "titleSlug": "longest-common-prefix",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_13",
+        "title": "Roman to Integer",
+        "titleSlug": "roman-to-integer",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_11",
+        "title": "Container With Most Water",
+        "titleSlug": "container-with-most-water",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_9",
+        "title": "Palindrome Number",
+        "titleSlug": "palindrome-number",
+        "difficulty": 1
+      },
+      {
+        "problemId": "LC_8",
+        "title": "String to Integer (atoi)",
+        "titleSlug": "string-to-integer-atoi",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_7",
+        "title": "Reverse Integer",
+        "titleSlug": "reverse-integer",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_6",
+        "title": "Zigzag Conversion",
+        "titleSlug": "zigzag-conversion",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_5",
+        "title": "Longest Palindromic Substring",
+        "titleSlug": "longest-palindromic-substring",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_4",
+        "title": "Median of Two Sorted Arrays",
+        "titleSlug": "median-of-two-sorted-arrays",
+        "difficulty": 3
+      },
+      {
+        "problemId": "LC_3",
+        "title": "Longest Substring Without Repeating Characters",
+        "titleSlug": "longest-substring-without-repeating-characters",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_2",
+        "title": "Add Two Numbers",
+        "titleSlug": "add-two-numbers",
+        "difficulty": 2
+      },
+      {
+        "problemId": "LC_1",
+        "title": "Two Sum",
+        "titleSlug": "two-sum",
+        "difficulty": 1
+      }
+    ],
+    "lastSync": "2026-02-19T18:59:12.842Z"
+  }
+}
