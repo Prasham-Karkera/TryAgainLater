@@ -1,0 +1,109 @@
+// schema.prisma
+generator client {
+    provider = "prisma-client-js"
+    output   = "../generated/prisma"
+}
+
+datasource db {
+    provider = "mysql"
+}
+
+enum Difficulty {
+    Easy
+    Medium
+    Hard
+}
+
+model Platform {
+    platform_id   Int    @id @default(autoincrement())
+    platform_name String
+    platform_url  String
+
+    questions           Question[]
+    userPlatformHandles UserPlatformHandle[]
+}
+
+model Topic {
+    topic_id   Int    @id @default(autoincrement())
+    topic_name String @unique
+
+    questions QuestionTopic[]
+}
+
+model Question {
+    question_id          Int         @id @default(autoincrement())
+    platform_id          Int
+    external_question_id String
+    question_title       String
+    difficulty           Difficulty?
+    problem_url          String?
+
+    platform      Platform             @relation(fields: [platform_id], references: [platform_id], onDelete: Cascade)
+    topics        QuestionTopic[]
+    solvedByUsers UserSolvedQuestion[]
+
+    @@unique([platform_id, external_question_id])
+}
+
+model QuestionTopic {
+    question_id Int
+    topic_id    Int
+
+    question Question @relation(fields: [question_id], references: [question_id], onDelete: Cascade)
+    topic    Topic    @relation(fields: [topic_id], references: [topic_id], onDelete: Cascade)
+
+    @@id([question_id, topic_id])
+}
+
+model User {
+    user_id                Int    @id @default(autoincrement())
+    name                   String
+    email                  String @unique
+    current_streak         Int    @default(0)
+    longest_streak         Int    @default(0)
+    total_questions_solved Int    @default(0)
+
+    platformHandles UserPlatformHandle[]
+    solvedQuestions UserSolvedQuestion[]
+}
+
+// plarform handle means platform ka username
+
+model UserPlatformHandle {
+    user_id         Int
+    platform_id     Int
+    platform_handle String
+
+    user     User     @relation(fields: [user_id], references: [user_id], onDelete: Cascade)
+    platform Platform @relation(fields: [platform_id], references: [platform_id], onDelete: Cascade)
+
+    @@id([user_id, platform_id])
+}
+
+model UserSolvedQuestion {
+    user_id     Int
+    question_id Int
+    solved_date DateTime @default(now())
+    time_taken  Int?
+
+    user     User     @relation(fields: [user_id], references: [user_id], onDelete: Cascade)
+    question Question @relation(fields: [question_id], references: [question_id], onDelete: Cascade)
+
+    @@id([user_id, question_id])
+}
+
+// Here's a summary of all cascade rules added and what they mean:
+
+// **Platform deleted →** all its `Question`s are deleted → which cascades further to `QuestionTopic` and `UserSolvedQuestion` entries for those questions. Also deletes all `UserPlatformHandle`s tied to that platform.
+
+// **Question deleted →** its `QuestionTopic` entries and `UserSolvedQuestion` entries are deleted automatically.
+
+// **Topic deleted →** its `QuestionTopic` join entries are deleted (questions themselves are untouched).
+
+// **User deleted →** their `UserPlatformHandle`s and `UserSolvedQuestion`s are deleted.
+
+// The cascade chain for the most impactful case looks like:
+// ```
+// Platform → Question → QuestionTopic
+//                     → UserSolvedQuestion
+//          → UserPlatformHandle
