@@ -1,9 +1,9 @@
 // ✅ This is the correct Next.js App Router syntax
-import { NextResponse } from 'next/server';
+import { NextResponse } from "next/server";
 
 export async function GET() {
   const LEETCODE_GRAPHQL_URL = "https://leetcode.com/graphql";
-  
+
   const query = `
     query problemsetQuestionList($categorySlug: String, $limit: Int, $skip: Int, $filters: QuestionListFilterInput) {
       questionList(
@@ -31,7 +31,7 @@ export async function GET() {
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({
         query,
-        variables: { categorySlug: "", skip: 0, limit: 100, filters: {} },
+        variables: { categorySlug: "", skip: 3900, limit: 100, filters: {} },
       }),
     });
 
@@ -39,11 +39,11 @@ export async function GET() {
     const rawQuestions = result.data.questionList.data;
 
     const formatted = rawQuestions.map((q: any) => ({
-      problemId: `LC_${q.titleSlug}`,
+      problemId: q.titleSlug,
       title: q.title,
-      difficulty: q.difficulty,
+      rating: q.difficulty,
       tags: q.topicTags.map((t: any) => t.name),
-      link: `https://leetcode.com/problems/${q.titleSlug}/`
+      url: `https://leetcode.com/problems/${q.titleSlug}/`,
     }));
 
     return NextResponse.json({ sample: formatted });
