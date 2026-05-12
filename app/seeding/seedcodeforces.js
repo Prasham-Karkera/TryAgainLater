@@ -105,7 +105,7 @@ async function insertQuestions(questions) {
 
   const formattedQuestions = questions.map((q) => ({
     platform_id: 2,
-    external_question_id: "20000" + q.problemId,
+    external_question_id: "CF" + q.problemId,
     question_title: q.title,
     difficulty: getDifficulty(q.rating),
     problem_url: q.url,
@@ -139,7 +139,7 @@ async function insertQuestionTopics(questions, insertedQuestions, topicMap) {
   const questionTopicRows = [];
 
   for (const q of questions) {
-    const externalId = "20000" + q.problemId;
+    const externalId = "CF" + q.problemId;
     const questionId = questionIdMap[externalId];
 
     if (!questionId) {
