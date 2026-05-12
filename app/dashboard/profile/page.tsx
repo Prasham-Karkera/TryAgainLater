@@ -51,6 +51,30 @@ export default function ProfilePage() {
 
   useEffect(() => {
     setIsMounted(true);
+    fetch("/api/auth/session")
+      .then(async (response) => {
+        if (!response.ok) {
+          return null;
+        }
+
+        return response.json();
+      })
+      .then((payload) => {
+        if (!payload?.user) {
+          return;
+        }
+
+        setUserStats((previous) => ({
+          ...previous,
+          name: payload.user.name,
+          email: payload.user.email,
+          joinDate: payload.user.memberSince,
+        }));
+      })
+      .catch(() => {
+        // Keep the fallback profile if auth is unavailable.
+      });
+
     // Load platform data from localStorage
     const savedPlatforms = localStorage.getItem("platformIds");
     if (savedPlatforms) {
