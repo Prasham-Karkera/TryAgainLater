@@ -1,0 +1,114 @@
+[
+  {
+    "problemId": "2227H",
+    "title": "Fallen Leaves",
+    "rating": 0,
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "trees"
+    ],
+    "url": "https://codeforces.com/contest/2227/problem/H"
+  },
+  {
+    "problemId": "2227G",
+    "title": "Drowning",
+    "rating": 0,
+    "tags": [
+      "binary search",
+      "data structures",
+      "math"
+    ],
+    "url": "https://codeforces.com/contest/2227/problem/G"
+  },
+  {
+    "problemId": "2227F",
+    "title": "It Just Keeps Going Sideways",
+    "rating": 0,
+    "tags": [
+      "binary search",
+      "data structures",
+      "dp",
+      "greedy",
+      "math"
+    ],
+    "url": "https://codeforces.com/contest/2227/problem/F"
+  },
+  {
+    "problemId": "2227E",
+    "title": "It All Went Sideways",
+    "rating": 0,
+    "tags": [
+      "binary search",
+      "data structures",
+      "dp",
+      "greedy"
+    ],
+    "url": "https://codeforces.com/contest/2227/problem/E"
+  },
+  {
+    "problemId": "2227D",
+    "title": "Palindromex",
+    "rating": 0,
+    "tags": [
+      "binary search",
+      "brute force",
+      "constructive algorithms",
+      "data structures",
+      "greedy",
+      "implementation",
+      "two pointers"
+    ],
+    "url": "https://codeforces.com/contest/2227/problem/D"
+  },
+  {
+    "problemId": "2227C",
+    "title": "Snowfall",
+    "rating": 0,
+    "tags": [
+      "constructive algorithms",
+      "math"
+    ],
+    "url": "https://codeforces.com/contest/2227/problem/C"
+  },
+  {
+    "problemId": "2227B",
+    "title": "Party Monster",
+    "rating": 0,
+    "tags": [
+      "greedy"
+    ],
+    "url": "https://codeforces.com/contest/2227/problem/B"
+  },
+  {
+    "problemId": "2227A",
+    "title": "Koshary",
+    "rating": 0,
+    "tags": [
+      "implementation",
+      "math"
+    ],
+    "url": "https://codeforces.com/contest/2227/problem/A"
+  },
+  {
+    "problemId": "2226G",
+    "title": "Stop Spot",
+    "rating": 0,
+    "tags": [
+      "implementation",
+      "strings",
+      "trees"
+    ],
+    "url": "https://codeforces.com/contest/2226/problem/G"
+  },
+  {
+    "problemId": "2226F",
+    "title": "Inversion Invasion",
+    "rating": 0,
+    "tags": [
+      "math",
+      "number theory"
+    ],
+    "url": "https://codeforces.com/contest/2226/problem/F"
+  }
+]

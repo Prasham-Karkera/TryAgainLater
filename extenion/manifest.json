@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Try Again Later - LeetSync",
+  "version": "1.0",
+  "description": "Bridges LeetCode session cookies to the local dev server.",
+  "permissions": ["cookies", "activeTab", "storage"],
+  "host_permissions": [
+    "https://leetcode.com/*",
+    "http://localhost:3000/*"
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
