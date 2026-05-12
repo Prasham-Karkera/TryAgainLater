@@ -1,6 +1,7 @@
 import { NextResponse } from "next/server";
-import dotenv from "dotenv";
 import { prisma } from "@/lib/prisma";
+import { getServerSession } from "next-auth/next";
+import { authOptions } from "@/auth";
 
 interface Question {
   problemId: string;
@@ -13,6 +14,27 @@ export async function POST(req: Request) {
   const secret = req.headers.get("x-bridge-secret");
   const REQUIRED_SECRET = "my_simple_bridge_password";
 
+  const session = await getServerSession(authOptions);
+  if (!session) {
+    return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
+  }
+
+  const useremail = session.user?.email;
+  if (!useremail) {
+    return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
+  }
+
+  const userid = await prisma.user.findUnique({
+    where: { email: useremail },
+    select: { user_id: true },
+  });
+
+  if (!userid) {
+    return NextResponse.json({ error: "User not found" }, { status: 401 });
+  }
+
+  // console.log(userid.user_id);
+
   // 1. Simple Guard
   if (secret !== REQUIRED_SECRET) {
     return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
@@ -20,22 +42,22 @@ export async function POST(req: Request) {
 
   try {
     const questionsuser = await req.json();
+    const user_id = userid.user_id;
 
     const questions = questionsuser.problems;
-    const username = 1; //questionsuser.username;
 
     const results = await Promise.allSettled(
       questions.map((problemId: Question) =>
         prisma.userSolvedQuestion.upsert({
           where: {
             user_id_external_question_id: {
-              user_id: 1,
+              user_id: user_id,
               external_question_id: "LC_" + problemId.titleSlug,
             },
           },
           update: {},
           create: {
-            user_id: 1,
+            user_id: user_id,
             external_question_id: "LC_" + problemId.titleSlug,
           },
         }),
@@ -55,7 +77,7 @@ export async function POST(req: Request) {
       console.warn("[leetcode/sync] Some upserts failed:", failed);
     }
 
-    console.log(`✅ Data synced for ${username}`);
+    console.log(`✅ Data synced for ${user_id}`);
 
     return NextResponse.json({
       success: true,

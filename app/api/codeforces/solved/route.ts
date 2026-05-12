@@ -1,28 +1,30 @@
 import { NextResponse } from "next/server";
-import { cookies } from "next/headers";
 import { prisma } from "@/lib/prisma";
+import { getServerSession } from "next-auth/next";
+import { authOptions } from "@/auth";
 
-// ── GET /api/codeforces/sync?handle=<handle> ───────────────────
 export async function GET(request: Request) {
   // 1. Auth – read user from session cookie
-  // const cookieStore = await cookies();
-  // const sessionCookie = cookieStore.get("session");
+  const session = await getServerSession(authOptions);
+  if (!session) {
+    return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
+  }
 
-  // if (!sessionCookie?.value) {
-  //   return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
-  // }
+  const useremail = session.user?.email;
+  if (!useremail) {
+    return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
+  }
 
-  // let session: SessionData;
-  // try {
-  //   session = JSON.parse(sessionCookie.value) as SessionData;
-  // } catch {
-  //   return NextResponse.json({ error: "Invalid session" }, { status: 401 });
-  // }
+  const userid = await prisma.user.findUnique({
+    where: { email: useremail },
+    select: { user_id: true },
+  });
 
-  // const userId = session.userId;
-  // if (!userId) {
-  //   return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
-  // }
+  if (!userid) {
+    return NextResponse.json({ error: "User not found" }, { status: 401 });
+  }
+
+  const user_id = userid.user_id;
 
   // 2. Handle from query param
   const { searchParams } = new URL(request.url);
@@ -58,13 +60,13 @@ export async function GET(request: Request) {
         prisma.userSolvedQuestion.upsert({
           where: {
             user_id_external_question_id: {
-              user_id: 1,
+              user_id: user_id,
               external_question_id: "CF" + problemId,
             },
           },
           update: {},
           create: {
-            user_id: 1,
+            user_id: user_id,
             external_question_id: "CF" + problemId,
           },
         }),
