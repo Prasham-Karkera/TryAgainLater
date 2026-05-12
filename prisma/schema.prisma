@@ -56,19 +56,21 @@ model QuestionTopic {
 }
 
 model User {
-    user_id                Int    @id @default(autoincrement())
+    user_id                Int      @id @default(autoincrement())
     name                   String
-    email                  String @unique
-    current_streak         Int    @default(0)
-    longest_streak         Int    @default(0)
-    total_questions_solved Int    @default(0)
+    email                  String   @unique
+    passwordHash           String?
+    createdAt              DateTime @default(now())
+    current_streak         Int      @default(0)
+    longest_streak         Int      @default(0)
+    total_questions_solved Int      @default(0)
 
     platformHandles UserPlatformHandle[]
     solvedQuestions UserSolvedQuestion[]
 }
 
 // plarform handle means platform ka username
-
+    
 model UserPlatformHandle {
     user_id         Int
     platform_id     Int

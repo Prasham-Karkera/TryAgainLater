@@ -59,20 +59,24 @@ export function Navbar() {
 
           {/* CTA Buttons */}
           <div className="hidden md:flex items-center gap-3">
-            <motion.button
-              whileHover={{ scale: 1.02 }}
-              whileTap={{ scale: 0.98 }}
-              className="px-4 py-2 text-sm font-medium text-foreground hover:text-primary transition-colors"
-            >
-              Sign In
-            </motion.button>
-            <motion.button
-              whileHover={{ scale: 1.02 }}
-              whileTap={{ scale: 0.98 }}
-              className="px-4 py-2 text-sm font-medium bg-primary text-primary-foreground rounded-lg hover:bg-primary/90 transition-colors"
-            >
-              Get Started
-            </motion.button>
+            <Link href="/signin">
+              <motion.span
+                whileHover={{ scale: 1.02 }}
+                whileTap={{ scale: 0.98 }}
+                className="inline-flex px-4 py-2 text-sm font-medium text-foreground hover:text-primary transition-colors"
+              >
+                Sign In
+              </motion.span>
+            </Link>
+            <Link href="/signup">
+              <motion.span
+                whileHover={{ scale: 1.02 }}
+                whileTap={{ scale: 0.98 }}
+                className="inline-flex px-4 py-2 text-sm font-medium bg-primary text-primary-foreground rounded-lg hover:bg-primary/90 transition-colors"
+              >
+                Get Started
+              </motion.span>
+            </Link>
           </div>
 
           {/* Mobile Menu Button */}
@@ -118,12 +122,18 @@ export function Navbar() {
                   </Link>
                 ))}
                 <div className="flex flex-col gap-2 pt-2 border-t border-border">
-                  <button className="px-4 py-2 text-sm font-medium text-foreground">
+                  <Link
+                    href="/signin"
+                    className="px-4 py-2 text-sm font-medium text-foreground"
+                  >
                     Sign In
-                  </button>
-                  <button className="px-4 py-2 text-sm font-medium bg-primary text-primary-foreground rounded-lg">
+                  </Link>
+                  <Link
+                    href="/signup"
+                    className="px-4 py-2 text-sm font-medium bg-primary text-primary-foreground rounded-lg text-center"
+                  >
                     Get Started
-                  </button>
+                  </Link>
                 </div>
               </div>
             </motion.div>

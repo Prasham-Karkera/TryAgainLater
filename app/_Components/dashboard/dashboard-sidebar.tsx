@@ -4,6 +4,7 @@ import { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
+import { signOut } from "next-auth/react";
 
 interface NavItem {
   name: string;
@@ -22,6 +23,10 @@ export function DashboardSidebar() {
   ];
 
   const isActive = (href: string) => pathname === href;
+
+  const handleLogout = async () => {
+    await signOut({ callbackUrl: "/signin" });
+  };
 
   return (
     <>
@@ -101,7 +106,10 @@ export function DashboardSidebar() {
             transition={{ delay: 0.3 }}
             className="pt-6 border-t border-border mt-auto"
           >
-            <button className="w-full px-4 py-3 bg-primary/10 text-primary rounded-lg hover:bg-primary/20 transition-colors font-medium">
+            <button
+              onClick={handleLogout}
+              className="w-full px-4 py-3 bg-primary/10 text-primary rounded-lg hover:bg-primary/20 transition-colors font-medium"
+            >
               Logout
             </button>
           </motion.div>
