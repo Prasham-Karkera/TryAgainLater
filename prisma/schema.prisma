@@ -68,14 +68,14 @@ model UserPlatformHandle {
 }
 
 model UserSolvedQuestion {
-  user_id     Int
-  question_id Int
-  solved_date DateTime @default(now())
-  time_taken  Int?
-  question    Question @relation(fields: [question_id], references: [question_id], onDelete: Cascade)
-  user        User     @relation(fields: [user_id], references: [user_id], onDelete: Cascade)
+  user_id              Int
+  external_question_id String
+  solved_date          DateTime @default(now())
+  time_taken           Int?
+  question             Question @relation(fields: [external_question_id], references: [external_question_id], onDelete: Cascade)
+  user                 User     @relation(fields: [user_id], references: [user_id], onDelete: Cascade)
 
-  @@id([user_id, question_id])
+  @@id([user_id, external_question_id])
 }
 
 enum Difficulty {

@@ -36,7 +36,7 @@ export async function GET(request: Request) {
     }
 
     // 3. Map the cached problems to the format your Frontend expects
-    const solved = userData.problems.map((p) => ({
+    const solved = userData.problems.map((p: any) => ({
       problemId: p.problemId || `LC_${p.id}`,
       title: p.title,
       titleSlug: p.titleSlug || p.slug,
