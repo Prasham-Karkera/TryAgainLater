@@ -23,7 +23,7 @@ export async function POST(req: Request) {
     // 2. Update Store
     store[data.username] = {
       problems: data.problems,
-      lastSync: new Date().toISOString()
+      lastSync: new Date().toISOString(),
     };
 
     fs.writeFileSync(filePath, JSON.stringify(store, null, 2));
