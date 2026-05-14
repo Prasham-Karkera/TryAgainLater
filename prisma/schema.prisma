@@ -61,10 +61,12 @@ model UserPlatformHandle {
   user_id         Int
   platform_id     Int
   platform_handle String
+  last_synced     DateTime @default(now())
   platform        Platform @relation(fields: [platform_id], references: [platform_id], onDelete: Cascade)
   user            User     @relation(fields: [user_id], references: [user_id], onDelete: Cascade)
 
   @@id([user_id, platform_id])
+  @@index([last_synced])
 }
 
 model UserSolvedQuestion {
