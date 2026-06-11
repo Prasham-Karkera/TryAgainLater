@@ -9,15 +9,14 @@ export default async function DashboardLayout({
 }: {
   children: React.ReactNode;
 }) {
-  const session = await auth();
+  // const session = await auth();
 
-  if (!session) {
-    redirect("/signin");
-  }
+  // if (!session) {
+  //   redirect("/signin");
+  // }
 
   return (
     <div className="min-h-screen bg-background">
-      <DashboardNavbar userName={session.user?.name} />
       <div className="flex pt-16">
         <DashboardSidebar />
         <main className="flex-1 md:ml-0 overflow-hidden">
